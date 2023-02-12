@@ -1,5 +1,3 @@
 pypdf
-pikepdf
-tika
 pytest
-fitz
+pdfplumber
