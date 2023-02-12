@@ -2,3 +2,4 @@ pypdf
 pikepdf
 tika
 pytest
+fitz
