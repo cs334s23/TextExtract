@@ -1,0 +1,4 @@
+pypdf
+pikepdf
+tika
+pytest
