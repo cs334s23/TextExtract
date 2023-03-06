@@ -1,0 +1,2415 @@
+2015 Written Comments to the  
+U.S. Government Interagency Trade Policy Staff Committee  
+In Response to Federal Register Notice Regarding China’s Compliance with 
+its Accession Commitments to the World Trade Organization (WTO) 
+
+Thursday, 24 September 15 
+
+Information Technology Industry Council 
+
+Semiconductor Industry Association 
+
+Software & Information Industry Association 
+
+Telecommunications Industry Association 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+USITO – China’s WTO Compliance 2015 USTR Filing 
+Submitted Thursday, 24 September 15 
+
+2 
+
+I. 
+
+INTRODUCTION ................................................................................................................................ 3 
+
+A.  EXECUTIVE SUMMARY:......................................................................................................................... 3 
+
+II.  CHINA’S “INDIGENOUS INNOVATION” POLICIES .................................................................. 7 
+
+A.  ANTI-MONOPOLY LAW ........................................................................................................................ 7 
+B.  PROCUREMENT POLICIES ..................................................................................................................... 8 
+INTEGRATED CIRCUIT (IC) INDUSTRY SUPPORT MEASURES ........................................................... 8 
+C. 
+
+III. 
+
+INTELLECTUAL PROPERTY RIGHTS ....................................................................................... 9 
+
+A.  ENFORCEMENT................................................................................................................................... 10 
+B.  SEMICONDUCTOR COUNTERFEITS .................................................................................................... 11 
+C.  POLICY ISSUES .................................................................................................................................... 12 
+
+IV.  MARKET ACCESS AND TECHNICAL BARRIERS TO TRADE ............................................ 15 
+
+A.  TECHNOLOGY LICENSING .................................................................................................................. 15 
+B.  TECHNICAL STANDARDS ................................................................................................................... 16 
+C.  CUSTOMS VALUATION ....................................................................................................................... 18 
+D.  CUSTOMS RELATED POLICY ISSUES ................................................................................................. 19 
+E.  CONFORMITY ASSESSMENT AND TYPE APPROVAL ......................................................................... 21 
+F.  CYBER SECURITY/INFORMATION SECURITY POLICIES ................................................................... 24 
+
+V.  NATIONAL TREATMENT ............................................................................................................ 28 
+
+A.  GOVERNMENT PROCUREMENT MEASURES FAVORING LOCAL CONTENT ...................................... 28 
+B.  PUBLIC PROCUREMENT TIED TO DOMESTIC IP .............................................................................. 28 
+C.  GOVERNMENT PROCUREMENT ......................................................................................................... 29 
+D.  TRANSPARENCY ................................................................................................................................. 30 
+E.  ENVIRONMENT AND ENERGY EFFICIENCY REGULATIONS AND STANDARDS ................................. 31 
+
+VI.  COMMUNICATIONS & INFORMATION SERVICES ............................................................. 34 
+
+A. 
+IMPEDIMENTS TO MARKET ACCESS ................................................................................................. 34 
+B.  TECHNOLOGY NEUTRALITY VS. MANDATED STANDARDS .............................................................. 41 
+
+APPENDIX: USITO INTRODUCTION ................................................................................................ 43 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+USITO – China’s WTO Compliance 2015 USTR Filing 
+Submitted Thursday, 24 September 15 
+
+3 
+
+INTRODUCTION 
+
+I. 
+We are pleased to have this opportunity to provide input to the Interagency Trade 
+Policy Staff Committee’s annual assessment of China’s World Trade Organization (WTO) 
+compliance. The review provides USITO and its members an effective means to 
+recognize areas where progress has been made, raise issues of concern, and suggest 
+approaches to resolve areas of disagreement with China’s government over 
+implementation of its WTO commitments. 
+
+A. 
+
+EXECUTIVE SUMMARY: 
+
+China’s Indigenous Innovation Policies:  China’s drive to promote “indigenous 
+innovation” is embodied in numerous industrial policies and measures that 
+systematically favor products and services of Chinese companies over those of foreign 
+companies. These include the development of national standards that favor domestic 
+technologies, industrial policy driven by the implementation of the Anti-Monopoly Law, 
+conformity assessment regimes that can be arbitrarily applied to delay the approval of 
+foreign products, and overt local favoritism in government and state-owned enterprise 
+procurement. Many of these regulations and standards continue to hinder China’s 
+efforts to join the WTO Government Procurement Agreement (GPA) and appear to run 
+counter to China’s transition to a “market driven” economy, as proclaimed at the 3rd 
+Plenum of the 18th Communist Party Congress of the China Central Committee in 
+November 2013.  
+
+Intellectual Property Rights:  Despite expanded efforts in the past years to deal with 
+Intellectual Property Rights (IPR) problems, including the Special IPR Campaign, 
+establishment of the State Council IPR Office, and repeated acknowledgement by senior 
+Chinese leadership that IPR problems continue to create trade disputes and stunt 
+economic growth, piracy and counterfeiting at the wholesale and retail level, and over 
+the Internet, remain high due to inadequate penalties, uncoordinated enforcement 
+among local, provincial, and national authorities, and the lack of transparency in China’s 
+administrative and criminal enforcement system, as well as lack of oversight of supply 
+chain management among state-owned enterprises. 
+
+Technology Licensing:  USITO companies continue to be concerned about governmental 
+interference in licensing agreements. The Chinese government has publicly articulated a 
+policy to limit royalties for patented technologies paid to foreign companies and to 
+promote the domestic development of essential intellectual property. The State 
+Intellectual Property Office (SIPO) has also issued a proposed draft regulation on the 
+remuneration of employees’ inventions that could interfere with contracts for 
+compensation for patents filed by employees of multinational companies. During the 
+2004 JCCT, China agreed not to interfere in licensing negotiations between standards 
+implementers and the owners of “essential” patents or other IPR standards, but has not 
+confirmed that it will uphold this commitment. China also agreed not to adopt policies 
+that would interfere with licensing negotiation. 
+
+ 
+ 
+ 
+ 
+USITO – China’s WTO Compliance 2015 USTR Filing 
+Submitted Thursday, 24 September 15 
+
+4 
+
+Technical Standards Setting:  China is aggressively implementing and utilizing technical 
+standards to support development of key industries, especially the ICT industry. 
+Challenges for USITO members include China’s development of indigenous standards 
+that (i) aim to displace global standards when mandated, (ii) create significant 
+interoperability issues because they possess important diversions from global standards, 
+(iii) lack sufficient safeguards to protect the IP at issue in standards-setting activities, 
+and (iv) are developed without adequate transparency and participation rights for 
+foreign companies. Chinese regulators and standards development organizations’ lack 
+of adherence to the Agreement on Technical Barriers to Trade (TBT Agreement) Code of 
+Good Practice, both from the perspective of content of technical standards and 
+notifications to the TBT Agreement, presents significant challenges for foreign industry. 
+USITO advocates for the adoption of open technical standards that promote innovation 
+and global interoperability, for increased openness and transparency in Chinese 
+standards development organizations, and for the adoption of global standards by 
+relevant Chinese authorities that remain voluntary once implemented locally. 
+
+Industry has observed repeated instances of China’s standards authorities implementing 
+standards that favour domestic technologies and were developed without full 
+opportunity for participation from relevant stakeholders (including foreign ICT 
+companies). Additionally, China’s National Standards Law only recognizes the validity of 
+some global standards bodies, and excludes important organizations such as the 
+Institute of Electrical and Electronics Engineers (IEEE) even though they satisfy relevant 
+WTO criteria. Furthermore, voluntary standards often are made mandatory through 
+various administrative measures, and without sufficient notice to foreign companies. In 
+addition, the latest trend of the standards reform is unclear regarding treatment of 
+consortia standard-setting rights, particularly those not affiliated with government 
+agencies. We believe that giving all consortia equal rights in standard-setting will 
+encourage innovation. 
+
+Customs Valuation:  USITO continues to be informed of situations not in agreement 
+with the WTO Customs Valuation Agreement. Of primary concern is China Customs 
+questioning transaction value and instead utilizing valuation databases with reference 
+prices. Customs authorities do not appear to understand transfer pricing, inbound and 
+outbound bonded zone valuation, and customer rebate/sales discounts associated with 
+today’s supply chain complexity. Inconsistent treatment among ports is also prevalent, 
+as well as preference for verbal agreements instead of issuing written, binding rulings. In 
+addition, the valuation of “used equipment” is unfair when Chinese Customs tends to 
+request a minimum residual value for tariff purposes and disagrees with book values 
+submitted by importers. USITO recommends that China pursue Customs modernization 
+efforts as outlined below, which are consistent with those of other WTO members.   
+
+Conformity Assessment & Type Approval:  China’s current type approval process for 
+telecommunications equipment is not sufficiently transparent and stipulates 
+burdensome, non-technology neutral testing and conformity assessment requirements 
+that require the submission of unnecessary confidential business information. Through 
+
+ 
+ 
+ 
+ 
+USITO – China’s WTO Compliance 2015 USTR Filing 
+Submitted Thursday, 24 September 15 
+
+5 
+
+the JCCT and other channels, industry has advocated for transparent requirements, 
+simplification and consolidation of redundant tests, shortening of testing periods, and 
+elimination of unnecessary functionality tests. Industry strongly advocates for Ministry 
+of Industry and Information Technology (MIIT) and other relevant authorities to 
+streamline its type approval process to one certification process, combining the 
+Network Access License (NAL), Radio Type Approval (RTA), and China Compulsory 
+Certification (CCC) processes, and to publish and maintain on the Internet an easily 
+accessible list of testing requirements and specifications. Considering Chinese 
+conformity assessment practices more broadly, China should have the burden to justify 
+why its requirements such as source code disclosures are essential to prove conformity, 
+and provide both a prompt appeal process and adequate procedures to protect any 
+confidential information that is submitted. 
+
+Information & Cyber Security:  There continue to be a number of cyber security and 
+information security related areas in which China’s policies create challenges for USITO 
+member companies, especially for commercial and non-sensitive government sector 
+market access for ICT products. This includes policies for product certification, 
+encryption, and critical information infrastructure protection (CIIP). China’s distrust of 
+foreign technologies and governments often gives rise to unilateral approaches and 
+exclusionary policies to increase utilization of indigenous technology. Such policies are 
+exacerbated by the unclear distinction in China between commercial and government 
+information systems and between information security and national security related 
+concerns. Additionally, certain domestic stakeholders seek to benefit from market 
+opportunities that might arise at the expense of foreign competitors, forming a strong 
+constituency advocating for adoption by the PRC government of discriminatory policies.  
+
+Government Procurement:  From environmental protection to energy efficiency to 
+information security, wide-ranging policies have increased the administrative burden on 
+companies participating in government procurement. Some of these policies preclude 
+foreign companies from participating in certain bids or Requests for Proposals (RFPs). In 
+the meantime, China’s progress towards WTO GPA accession has been very slow, and 
+key concepts – such as the definition of domestic products – have not yet been made 
+publically available.  
+
+China’s December 2012 offer still excluded state-owned enterprises and lower-level 
+government departments, a critical shortcoming that, along with other broad 
+exemptions it is proposing, needs to be addressed. USITO advocates clear and steady 
+improvements in government procurement policy, building toward meaningful 
+accession to the GPA as soon as possible. 
+
+Environmental Standards and Compliance Regulations:  China’s energy efficiency 
+programs present a number of challenges to foreign companies, including standards 
+that deviate from global standards, mandatory labeling requirements, and energy 
+efficiency requirements related to government procurement and market access. While 
+many of these policies are well intentioned, China’s burgeoning programs for recycling 
+and environmental protection, such as China WEEE and RoHS, have raised concerns 
+
+ 
+ 
+ 
+ 
+USITO – China’s WTO Compliance 2015 USTR Filing 
+Submitted Thursday, 24 September 15 
+
+6 
+
+about transparency and undue complexity to increase administrative burdens and delay 
+the time to market due to conformity assessment. In 2015, China WEEE was broadened 
+to include mobile phones and other product categories, expanding the scope of affected 
+products, while China RoHS released an updated draft version that fails to address key 
+industry concerns.  
+
+Communications & Internet Services:  Since China's WTO accession, some aspects of 
+China’s communications services regulations have improved, while others remain highly 
+restrictive to foreign enterprises. China should continue to harmonize its regulations 
+with international norms in this area, including its Telecom Law, Telecom Services 
+Categories Catalogue, and the Administrative Measures for the Pilot Operation of New-
+Types of Telecom Services, all of which are under revision without clear timelines. 
+
+The draft revision of China's Internet Information Services Administrative Measures 
+released in June 2012 poses market access barriers for global Internet services 
+companies. The proposed revisions to the Measures clarify internet regulatory roles and 
+responsibilities of different government agencies, continue to classify internet services 
+as a telecom-value added service, and also contain numerous requirements and 
+provisions for national security lawful access, data retention, data privacy, content 
+filtering, and real-name ID registration requirements. USITO urges the Chinese 
+government to avoid country-specific regulations relating to the creation, release, and 
+transmission of certain types of content, and cautions that such regulations constitute 
+trade barriers for global Internet services companies. In addition, the proposed rules run 
+counter to the global nature of the Internet.  
+
+China’s increased controls over the Internet are creating barriers to the cross-border 
+flow of data and the ability of companies to operate in China. In a globalized economy, 
+companies across all sectors rely on the Internet to transmit and receive data to operate 
+and serve their customers – and this will no doubt be a critical factor for Chinese 
+companies that are expanding globally as well.  The Internet Plus strategy announced by 
+the Chinese government earlier this year rightfully puts important emphasis on 
+developing e-commerce.  However, China’s ever-tightening Internet controls will only 
+make that goal harder to achieve. 
+
+Cloud Market Access: Cloud computing, despite being identified as an area of strategic 
+development in China, remains largely off limits to foreign ICT companies, due to a 
+number of policy challenges, including equity caps, investment restrictions, and market 
+entry barriers. In September 2014, the China National Information Security Standards 
+Technical Committee (TC260) approved and formally released two standards that are 
+designed to establish a security framework for public sector cloud computing 
+deployments in China. These standards are likely to become mandatory for government 
+procurement, along with critical infrastructure systems under the Multi-level Protection 
+Scheme regime. USITO recommends that the Chinese government provide greater 
+clarity and participation regarding standards and regulations related to cloud computing. 
+China’s deployment of cloud computing technologies will be better facilitated by 
+
+ 
+ 
+ 
+ 
+USITO – China’s WTO Compliance 2015 USTR Filing 
+Submitted Thursday, 24 September 15 
+
+7 
+
+adopting global standards and policies that reflect the international and borderless 
+nature of this emerging industry. 
+
+China has made numerous bilateral and multilateral commitments to provide foreign 
+enterprises with fair and equitable participation in the development of strategic 
+emerging industries (SEIs). This includes cloud computing and the development of SEI 
+policies in a manner compliant with WTO obligations. USITO recommends that the 
+Chinese government fulfill these commitments in an expeditious manner, removing 
+investment and other restrictions that prevent foreign investment in cloud computing in 
+China.  
+
+II.  CHINA’S “INDIGENOUS INNOVATION” POLICIES 
+China’s drive to promote “indigenous innovation” is embodied in numerous industrial 
+policies and measures that systematically favor products and services of Chinese 
+companies over those of foreign companies. These include the development of national 
+standards that favor domestic technologies, massive efforts to support domestic players 
+in the integrated circuit industry, conformity assessment regimes that can be arbitrarily 
+applied to delay the approval of foreign products, and local favoritism in government 
+procurement.  
+
+A. 
+
+ANTI-MONOPOLY LAW 
+
+USITO is concerned that, amid accelerating government agency campaigns to promote 
+domestic champions, Chinese antitrust enforcers have increasingly turned their sights 
+on foreign companies with a flurry of recent investigations launched under the China 
+Anti-Monopoly Law (AML).  While the Chinese leadership continues to pledge that the 
+market will play a “decisive” role in China’s economy, government actions continue to 
+advance industrial policies in a coordinated manner.  
+
+One example of this trend is China’s use of the AML as an industrial policy tool, which 
+could affect a range of U.S. companies.  National Development Reform Commission 
+(NDRC) officials have been publicly outspoken about the important role that industrial 
+policy considerations should play in antitrust enforcement in China and their intention 
+to broaden significantly the scope of their review of competitive practices in a wide 
+range of “strategic sectors,” including automobiles, telecommunications, banking and 
+petroleum. 
+
+Indeed, China has used the AML to prevent undue concentrations of market power, 
+combat cartels and abuse of market dominance, and pursue other goals that enhance 
+the overall competitive environment in China.  However, in many cases involving foreign 
+companies, China’s anti-monopoly enforcement agencies have skewed implementation 
+of the AML and related statutes to support China’s industrial policy goals, including 
+through discrimination and protectionism.  
+
+ 
+ 
+ 
+ 
+USITO – China’s WTO Compliance 2015 USTR Filing 
+Submitted Thursday, 24 September 15 
+
+8 
+
+The Chinese companies that benefit from these policies are often national champions in 
+industries that China considers strategic, such as commodities and high-technology. 
+Through the AML, China seeks to strengthen such companies and, in apparent disregard 
+of the AML, encourages them to consolidate market power, contrary to the normal 
+purpose of competition law. By contrast, the companies that suffer are 
+disproportionately foreign.  In fact, all transactions blocked or conditionally approved by 
+MOFCOM to date have involved foreign companies, and the curtailment of IP rights 
+appears designed to strengthen the bargaining position of domestic licensees. 
+
+According to a high-ranked official, China aims to fortify AML enforcement in 
+preparation for implementation of the forthcoming US-China Bilateral Investment 
+Treaty and negative list system. 
+
+PROCUREMENT POLICIES  
+
+B. 
+USITO also remains concerned with the implementation of China’s 12th Five Year Plan 
+(FYP), which includes efforts to bolster seven strategic emerging industries, including 
+next generation information technology (IT) such as semiconductors. While “indigenous 
+innovation” product catalogues are not part of the policy portfolio supporting 
+development of strategic emerging industries, the FYP gives officials the impetus to put 
+forward preferential tax, fiscal, and procurement policies to support these industries 
+and indicates the importance the Chinese government places on these sectors. In the 
+same vein, policies on information security, telecommunications standards, and other 
+areas often facilitate, or even encourage, discriminatory treatment of foreign 
+technology.  
+
+USITO is concerned that MIIT and other agencies directly involved in the regulation of 
+the ICT industry in China continue to utilize non-market, non-technology neutral 
+regulatory approaches to encourage domestic industrial development. This not only 
+creates a burdensome regulatory and trade environment, but also stifles innovation 
+domestically.  
+
+USITO urges the Chinese government to encourage an environment that enhances 
+opportunities for innovation in China, including the promotion of non-discriminatory 
+and merit-based procurement and full and open competition in the Chinese market. 
+This entails winning commitments from the highest levels of Chinese government to 
+create an equitable environment for the operation of foreign businesses in China and 
+enable foreign businesses to enjoy national treatment. USITO commends U.S. 
+government efforts on this issue and supports the continuation of the Innovation 
+Dialogue, created in 2010 to facilitate continued dialogue between both government 
+officials and innovation experts from industry and academia on innovation policy best 
+practices.  
+
+C. 
+
+INTEGRATED CIRCUIT (IC) INDUSTRY SUPPORT MEASURES 
+
+ 
+ 
+ 
+ 
+USITO – China’s WTO Compliance 2015 USTR Filing 
+Submitted Thursday, 24 September 15 
+
+9 
+
+Recent developments signal that China is prioritizing the development of an indigenous 
+Chinese IC industry. On June 24, 2014, MIIT and three other central government bodies 
+published the “Guidelines to Promote National IC Industry Development,” a central 
+government document outlining aggressive measures to support “leapfrog” growth in 
+China’s IC industry. Among other more specific objectives, the policy calls for China to 
+transform itself into a “leading IC country” by 2030 in all key market segments.    
+
+The central government recently confirmed the establishment of a 138 billion RMB 
+central government equity investment fund that will be deployed in the IC industry over 
+the coming ten (10) years.  In addition, there are more than two dozen regional or 
+provincial equity investment funds that have been established to fund China’s 
+acquisition of IC companies and technology.  Some of these funds are already active, 
+proposing billion-dollar acquisitions of US and foreign IC companies. 
+
+Thus far, the policy has been developed and implemented in a manner that lacks 
+transparency. There is widespread concern that the combined effect of the central and 
+regional government funds could prove disruptive to the global IC market, unfairly 
+propping up Chinese companies and potentially leading to overcapacity.    
+
+USITO urges the Chinese government to embrace an open and transparent process that 
+enables foreign governments and industry to provide input on all elements of the new 
+plan and the IC investment funds before they are fully implemented. In addition, USITO 
+calls upon the Chinese government to ensure that the plan and IC investment funds, at 
+the central and regional levels, are compatible and fully in line with China’s 
+commitments to the World Trade Organization (WTO), APEC, and the World 
+Semiconductor Council Government/Authorities Meeting on Semiconductors (GAMS), 
+among other forums. 
+
+INTELLECTUAL PROPERTY RIGHTS  
+
+III. 
+China’s Central Government has taken a number of steps to reinforce the importance of 
+sound IP protection policy and enforcement, including the passage of improved 
+intellectual property laws and regulations in the areas of copyright, patents, 
+semiconductor masks, trademarks (including domain names), and business proprietary 
+information.  
+
+However, despite positive rhetoric and high-level policies, IPR protection remains a 
+serious concern for our member companies, particularly in the areas of enforcement, 
+anti-piracy and anti-counterfeit efforts, as well as in the treatment of patents in 
+standards, conformity assessment regimes, and China’s patent registration and 
+protection system. At provincial and local government levels, there remains a lack of 
+consistent and effective measures to protect IP. 
+
+Piracy and counterfeiting at the wholesale and retail level, and over the Internet, remain 
+at significant levels due to inadequate penalties, uncoordinated enforcement among 
+local, provincial, and national authorities, and the lack of transparency in China’s 
+
+ 
+ 
+ 
+ 
+USITO – China’s WTO Compliance 2015 USTR Filing 
+Submitted Thursday, 24 September 15 
+
+10 
+
+administrative and criminal enforcement system. Indeed, the appropriation of IP in 
+China has occurred on such a massive scale that it continues to influence international 
+prices, disrupt supply chains, change business models, and likely permanently alter the 
+balance between tangible and intangible values contained within commercial products. 
+
+Closely related to these troubling IP policies is the regulatory framework emerging 
+around the development of technical standards, and the protection and disposal of IPR 
+in drafting China’s standards. These policies raise serious questions about China’s WTO 
+Agreement on Trade Related Aspects of Intellectual Property Rights (TRIPS) 
+commitments, which oblige signatories to protect private intellectual property rights. 
+For example, the recent draft amendment to the Patent Law has included an article 
+(Article 82) requiring compulsory licensing of patents in standards in the event of non-
+disclosure in the standards formulation process. 
+
+USITO advocates for China’s implementation of transparent enforcement systems and 
+clear delegation of administrative responsibility for IPR protection, enforcement, and 
+accountability, as well as government leadership and central and local levels in 
+propagating a culture of respect and value for IPR in China. 
+
+A. 
+
+ENFORCEMENT 
+
+Enforcement actions should be measured against China’s commitments under TRIPS to 
+provide copyright owners “effective action against any act of infringement in intellectual 
+property rights covered under this Agreement” (Article 41) and if the infringement 
+amounts to “willful trademark counterfeiting or copyright piracy on a commercial scale” 
+to provide for criminal penalties including imprisonment and monetary fines sufficient 
+to provide a deterrent to future acts of piracy (Article 61). 
+
+Though there have been several positive IPR enforcement developments, including the 
+adjustment of thresholds and penalties for IPR infringement and cooperation of courts 
+and law enforcement agencies, effective criminal or civil enforcement remains wholly 
+inadequate and unreliable.   
+
+Other promises regarding protection of IP remain unfulfilled, such as the commitment 
+made at the 2006 JCCT to ensure use of legal software by government offices at the 
+national, provincial, and local levels, and in state-owned and state-invested enterprises. 
+Earlier this year, China again reaffirmed its commitment to procure licensed software in 
+central government offices and in 30 large state-owned enterprises. But despite these 
+efforts, software piracy in governments and SOEs remains a significant concern. Equally 
+troubling, many recent software legalization initiatives by Chinese authorities also 
+contain directives for purchase of ‘indigenous’ software products. 
+
+USITO advocates for China to take concrete steps to carry out its original 2006 
+commitment, a commitment that has been repeated each year without much progress, 
+by purchasing and using licensed software without discriminating between Chinese and 
+foreign producers and products.  
+
+ 
+ 
+ 
+ 
+USITO – China’s WTO Compliance 2015 USTR Filing 
+Submitted Thursday, 24 September 15 
+
+11 
+
+The current IPR environment for software suffers from slow, cumbersome, and 
+ineffective enforcement, as well as insufficient penalties and fines. USITO believes that 
+adequate attention, investment, and training by enforcement agencies, including the 
+Public Security Bureau (PSB), are essential to improving the IPR environment for 
+software. Although Chinese authorities have undertaken some administrative 
+enforcement actions against infringing entities, the lack of transparency with regard to 
+sharing information about actions against infringers makes it impossible for rights-
+holders to accurately assess the real impact of China’s enforcement efforts.  
+
+Finally, the IPR provisions in the Criminal Code have not been revised since 1997, even 
+after China joined the WTO in 2001, and even though other key IPR laws, including the 
+Patent Law, Trademark Law, and Copyright Law, have been amended to bring them into 
+compliance with China’s TRIPs commitments. We believe the IPR provisions in the 
+Criminal Code should be revised to be fully compliant with TRIPs—most importantly, to 
+provide criminal penalties “that are sufficient to provide a deterrent” (TRIPs, art. 61) 
+against piracy and counterfeiting. For example, Chinese courts currently interpret the 
+“for profit” requirement that exists under Article 217 of the Criminal Code in a manner 
+that is significantly narrower than the “on a commercial scale” requirement of Article 61 
+of TRIPs. As a result, it is effectively impossible to obtain criminal remedies against 
+corporate end user software piracy (despite the clear commercial impact and purpose of 
+such piracy), hard disk loading software piracy, and online software piracy. Such 
+loopholes should be fixed either by amending the IPR provisions in the Criminal Code or 
+by clarifying its scope in a new judicial interpretation. Otherwise, China will continue to 
+violate its obligations under Article 61 of TRIPS to provide criminal remedies “sufficient 
+to provide a deterrent” to these forms of commercial-scale piracy. 
+
+The various commitments made by the Chinese government in recent years are 
+important steps that provide a strong basis for the Chinese government to take concrete 
+action and provide reliable information on actions to improve IP enforcement.  
+
+B. 
+
+SEMICONDUCTOR COUNTERFEITS 
+
+Semiconductors are the “brains” behind an incredibly diverse range of end products and 
+systems such as healthcare and medical equipment, communication networks, 
+emergency response systems, electric power grids (including nuclear and solar power 
+generation systems), industrial and automation systems, and transportation systems 
+and controls. Given the criticality of these end-use products and systems, counterfeit 
+semiconductors pose risks to health and safety wherever they are used worldwide. In 
+addition to counterfeit semiconductors creating a clear and present danger to the public, 
+counterfeits also result in the loss of intellectual property for the original manufacturer.  
+The sale of counterfeits erodes sales of legitimate products and causes job losses and 
+damage to world economies. 
+
+While semiconductor companies rely on patents, copyrights, and trademarks to protect 
+much of their IP, semiconductor layout design protection provides unique legal rights 
+that are particularly useful in certain circumstances. This form of protection is 
+
+ 
+ 
+ 
+ 
+USITO – China’s WTO Compliance 2015 USTR Filing 
+Submitted Thursday, 24 September 15 
+
+12 
+
+specifically included in the TRIPS agreement as a separate category. China adopted 
+regulations to protect semiconductor mask work (layout design) IP in 2001. As China’s 
+market and industry continue to grow, the successful implementation of this law is 
+increasingly important.  
+
+The China Semiconductor Industry Association (CSIA) is a member of the World 
+Semiconductor Council (WSC) and an active participant in the Anti-Counterfeiting Task 
+Force. Through this task force, the WSC has laid out a position on the implementation of 
+national layout design laws (such as clarifying the law in light of recent improvements in 
+automated design tools that allow semiconductor layout designs to be made by copying 
+a protected layout design with virtually no intellectual effort), and measures to improve 
+patent quality in the six WSC regions.1 
+
+Data from the member companies of the Semiconductor Industry Association (SIA) and 
+other sources has shown that semiconductor counterfeiting is a major issue. Data also 
+suggests that China is a major source of counterfeit semiconductors that undermine the 
+quality and reliability of electronics products both inside and outside of China. 
+Counterfeits can be purchased openly at electronics malls in China. In January 2014, a 
+co-conspirator in a scheme to traffic counterfeit goods into the United States plead 
+guilty for his role in bringing 289 shipments of counterfeit integrated circuits (ICs) from 
+China.  The U.S. Attorney’s Office in the State of Maryland that handled the case found 
+that the defendant imported all of the counterfeit ICs with the help of co-conspirators 
+based in China.   
+USITO is greatly encouraged by the ground-breaking commitments in the 24th JCCT 
+deliverables to increase enforcement against counterfeit and substandard 
+semiconductors and enhance cooperation on cross-border investigations.   China’s 
+Customs Agency and other law enforcement and market surveillance agencies should be 
+encouraged to aggressively seize counterfeit products and take actions leading to the 
+arrest of counterfeiters and counterfeit traders. 
+
+C. 
+
+POLICY ISSUES 
+
+USITO continues to register concern about Chinese government involvement in 
+discussions of compensation for intellectual property and policies that are seemingly 
+designed to disadvantage non-Chinese intellectual property holders.  
+
+  The ability of dominant (successful) companies to unilaterally and 
+
+unconditionally refuse to license their IP should be preserved. Article 17(b) of 
+SAIC’s IP Guidelines for Anti-Monopoly Enforcement would prohibit an 
+unconditional, unilateral refusal to license IPR when the refusal “will cause [the 
+potential] licensee not to be able to compete effectively and negatively affect 
+competition and innovation in the relevant market.” Among other possible 
+
+1 The World Semiconductor Council currently is composed of the European, Japanese, Chinese Taipei, Korean, Chinese, 
+and U.S. semiconductor industries. 
+
+ 
+ 
+ 
+ 
+                                                      
+USITO – China’s WTO Compliance 2015 USTR Filing 
+Submitted Thursday, 24 September 15 
+
+13 
+
+conduct, Article 11 of the guidelines defines “negative impact to competition” as 
+refusing to license IPR to “control technologies and other resources.” Chapter 6 
+of China’s Patent Law also currently permits compulsory licensing when a 
+patentee has failed to sufficiently exploit the patent, without providing guidance 
+as to how “sufficient exploitation” would be determined. The purpose of 
+granting IP rights is to enable an IPR holder to control technology so that it can 
+secure an adequate return on one’s investment in developing and 
+commercializing the invention at issue. Indeed, Article 28 of TRIPS makes it clear 
+that the right to exclude others from the invention is fundamental to and a 
+lawful and proper exercise of IPR. Some of the existing provisions in Chapter 6 of 
+China’s Patent Law do not comply with all compulsory licensing restrictions in 
+Article 31 of TRIPS. For instance, Article 49 of the law permits compulsory 
+licensing when it is in the “public interest” without defining those words. The 
+substantive grounds referred to in TRIPS Article 31 which governs compulsory 
+licensing are very narrow; they include “national emergencies or other 
+circumstances of extreme urgency,” but not the general “public interest” recited 
+in Article 49. In China, “public interest” might be defined very broadly. This same 
+issue also is raised by Article 52 of the Patent Law, which allows compulsory 
+licensing of semiconductor technology in the “public interest,” even though 
+TRIPS Article 31(c) makes it clear that compulsory licensing “in the case of 
+semiconductor technology shall only be for public non-commercial use or to 
+remedy a practice determined after judicial or administrative process to be anti-
+competitive.” The important and limiting term “public non-commercial use” in 
+TRIPS Article 31(c) is significantly more restrictive than the “public interest.” As a 
+final example, under TRIPS Article 31(h) compensation needs to be based on 
+“the economic value of the authorization.” Article 57 of the Patent Law 
+proscribes for an award of “reasonable royalties” for a compulsory license grant. 
+We recommend that any damages award for a compulsory license be on terms 
+that make the coerced licensor whole, such as Article 65’s lost profits remedy. 
+There is no rationale for a patent holder to receive less compensation under 
+Article 57 than he would under Article 65 just because, for example, his patent is 
+deemed important (e.g. for public health). Rather, it is equally important, indeed 
+more so, that compulsory license awards fully compensate the patent holder for 
+his losses as required by Article 31(h) of TRIPS. China is in the midst of amending 
+its patent law for the fourth time. We urge SIPO to use that opportunity to close 
+the gaps between the significant TRIPS restrictions on compulsory licensing and 
+the Patent Law’s compulsory licensing provisions. 
+
+  The rights of patent pools should be narrowly construed. We urge all of China’s 
+
+technical committees to adopt reasonable IPR policies based on the IPR 
+guidelines vetted and approved by IEC/ISO in 2011. IT Technical committees also 
+should assure their members that patents they license as part of a patent pool 
+for a given standard will not be considered as a commitment to license those 
+patents for use in other standards, unless the individual members themselves – 
+
+ 
+ 
+ 
+ 
+USITO – China’s WTO Compliance 2015 USTR Filing 
+Submitted Thursday, 24 September 15 
+
+14 
+
+or the members of the IT standards setting body to which they belong – express 
+no objection to such use. USITO advocates for adoption of fair and transparent 
+FRAND principles in this new version. 
+
+ 
+
+In April 2014, the State Intellectual Property Office (SIPO) released a new draft of 
+its Service Invention Remuneration (SIR) Regulations. While improvements 
+have been made since 2012, namely inclusion of a clause that “An entity which 
+has been granted a patent can reach an agreement with the inventor(s) or 
+designer(s), or stipulate in its legally formed company rules with regard to the 
+form and amount of rewards and remunerations”, the proposed amendments 
+continue to undercut freedom of contract and impose additional onerous terms 
+to be included in the employer and employee agreements and make it unclear if 
+the aforementioned regulation is superseded or not by the proposed regulations. 
+Invention remuneration should be determined between the employer and 
+employee and the employer and employee should be given the flexibility to craft 
+agreements that meet the needs of both parties. High uncertainty imposes an 
+undue burden of compliance on employers, leaves the employer exposed to a 
+risk of constant litigation, and deflects potential investors and investments in 
+China. 
+
+  Utility Model Patents (UMPs):  The low level of inventiveness and the lack of 
+
+substantive review for utility model patents in China create the potential for the 
+emergence of a patent assertion entity problem there.2 The issuance of utility 
+model patents is growing dramatically; they are quick, easy and inexpensive to 
+obtain. The problem is compounded by shortcomings in the enforcement system; 
+and by subsidies and quotas that encourage the filing of UMPs merely to raise 
+patent numbers regardless of quality or the innovative contribution. We urge 
+consultations with industry and other governments to investigate remedies to 
+this potential problem.  Two options would be as follows: amend Article 40 of 
+the Patent Law to request prior art search and substantial examination of UMP 
+applications or revise current Patent Law Article 22.3 to raise the examination 
+criteria for inventiveness for UMPs to the same level as that for invention 
+patents. 
+
+  Fourth Patent Law Amendments: There are two major concerns with the draft 
+fourth patent law amendments, which focus on enforcement of patents. First, 
+the amendments create a greater gap between the SIPO Patent Reexamination 
+Board (PRB) decision on validity and a decision by the courts or patent 
+administrative authority on infringement.  The proposed amendment in Article 
+46 makes the validity decision effective as of the date of announcement and the 
+proposed amendment in Article 60 requires the courts or patent administrative 
+
+2 Jia Lynn Yang, “Chinese firms put intellectual property lawsuits to work,” Washington Post, August 30, 2012 available at 
+http://www.washingtonpost.com/business/economy/chinese-firms-put-intellectual-property-lawsuits-to-
+work/2012/08/30/12d9a418-f1c3-11e1-adc6-87dfa8eff430_story.html  
+
+ 
+ 
+ 
+ 
+                                                      
+USITO – China’s WTO Compliance 2015 USTR Filing 
+Submitted Thursday, 24 September 15 
+
+15 
+
+authority to timely decide the patent infringement case after the PRB decision is 
+announced. This means that a decision on infringement will be handed down 
+even though the relevant parties may appeal the PRB decision. As a result, the 
+above amendments will very likely force an infringement decision and the 
+issuance of an injunction and damages award, even if the patent is later 
+rendered invalid by the appellate court. Article 47 exacerbates this problem 
+because it declares that if a patent right is held invalid, it will have no retroactive 
+effect on any court or administrative decision made and enforced.  USITO 
+recommends against amendments that widen the gap between determination of 
+validity and infringement because this will produce unfair results and harm 
+innovation.   
+
+The second major concern is the greater power provided to administrative 
+authorities on patent matters.  The administrative authorities, under the 
+proposed amendment in Article 64, are granted a full range of powers to 
+investigate, including inspecting and duplicating company contracts, seizing 
+products proved to “disrupt the market order” by willful patent infringement and 
+to punish willful patent infringement in accordance with the law, investigate and 
+punish willful infringement, including levying punitive damages for willful 
+infringement up to three times the amount of actual damages.  USITO 
+recommends against providing this additional authority to the administrative 
+authorities as there are insufficient procedural safeguards, especially around 
+copying and seizing company property and lack of clarity about what constitutes 
+“willful infringement” and “disrupting the market order”.  This additional 
+authority, especially without proper safeguards and training, could lead to 
+frivolous actions and unfair results.  
+
+IV.  MARKET ACCESS AND TECHNICAL BARRIERS TO TRADE 
+
+A. 
+
+TECHNOLOGY LICENSING 
+
+The U.S. ICT sector continues to be concerned about governmental interference in 
+licensing agreements. The Chinese government has publicly articulated a policy to limit 
+royalties for patented technologies paid to foreign companies and to promote the 
+domestic development of essential intellectual property. China seeks to foster the 
+domestic development of innovative technologies and IPR in part through technology 
+mandates or promotion of unique national standards that are then turned into technical 
+regulations. This policy is also implemented through direct or indirect interference by 
+Chinese authorities in licensing negotiations between Chinese and foreign technology 
+companies. Such interference is a dramatic departure from how business is conducted 
+and technology transfer arrangements are concluded in the global market. 
+
+MIIT has effectively precluded foreign companies that own essential IPR for third-
+generation (“3G”) wireless communications standards from negotiating technology 
+
+ 
+ 
+ 
+ 
+USITO – China’s WTO Compliance 2015 USTR Filing 
+Submitted Thursday, 24 September 15 
+
+16 
+
+licenses and royalty agreements directly with Chinese companies, which is the 
+customary business practice globally. Rather, at the risk of being denied access to the 
+Chinese market, foreign companies have been pressured to enter into negotiations 
+involving royalty rates and other licensing terms with a committee led by the China 
+Academy of Information Communications Technology (CAICT), a government institution 
+subordinate to MIIT.  
+
+These governmental practices are inconsistent with the fundamental rights conferred by 
+patent to technology owners and constitute an express violation, or at least nullification 
+or impairment, of TRIPS patent provisions. Chinese government-imposed limitations on 
+3G royalties operate as impermissible price controls that are not authorized under 
+China’s protocol of accession to the WTO. As China launches 4G LTE services, USITO is 
+concerned that previous commitments of non-interference on commercial contracts 
+including but not limited to royalty negotiations, licensing agreements, and mandating 
+of standards are not being honored. 
+
+A new area in which USITO members face challenges is in the area of technology 
+licensing for information security and cryptography standards. Chinese Commercial 
+Encryption Regulations require that only government-approved algorithms be adopted 
+by industry, yet many of the essential IPR, technology usage, and licensing guidelines for 
+these standards have not been made public. Foreign firms are at a disadvantage by not 
+being aware of key technology licensing agreements for mandatory national standards.   
+
+There have been no signs of any change in China’s policy on this issue since the 2004 
+JCCT meeting, where China promised not to interfere in royalty negotiations at least for 
+3G licenses. The U.S. government should continue to press China on this matter by (i) 
+clarifying that its 2004 commitment extends to all government and quasi-government 
+personnel, and is not limited to “Chinese regulators” alone; and (ii) expanding that 
+commitment, based on WTO requirements, so that it does not apply solely to 3G 
+licenses. Chinese manufacturers should be permitted to negotiate directly with foreign 
+IP holders. Otherwise, the PRC government will continue to find ways to interfere in 
+royalty negotiations. 
+
+B. 
+
+TECHNICAL STANDARDS 
+
+We recognize the recent incremental reforms in China’s standards policies, but remain 
+concerned that China’s standards policies continue to deny sufficient participation from 
+global industry and often result in crucial deviations from existing global standards. 
+China often mandates standards that are developed outside of global standard setting 
+processes, and with limited consultation with industry stakeholders. Furthermore, the 
+implementation of ‘voluntary’ standards as ‘mandatory’ standards, often times through 
+the conformity assessment process, is a significant impediment for U.S. companies’ 
+growth in the China market. These barriers continue to lead to the significant delay in 
+the introduction of cutting edge U.S. ICT products to the China market as firms are 
+forced to navigate this byzantine standards process. More importantly, adoption of both 
+mandatory and voluntary China-specific national and industry standards impedes 
+
+ 
+ 
+ 
+ 
+USITO – China’s WTO Compliance 2015 USTR Filing 
+Submitted Thursday, 24 September 15 
+
+17 
+
+innovation by restricting both the ability of Chinese companies to serve other markets 
+as well as foreign importers to serve domestic markets. We strongly advocate for the 
+principle of national treatment by China, so that foreign companies have the same 
+access to and voting rights in Chinese standards setting bodies as Chinese companies, 
+and ensure that there is no “presumption of participation” in Chinese standards setting 
+laws, rules or administrative regulations that would allow the Chinese government to 
+unfairly procure the intellectual property of foreign companies on non-market or royalty 
+free terms. Additionally, to the extent such mandatory and voluntary Chinese standards 
+unnecessarily deviate from relevant and effective international standards, as they often 
+do, China potentially violates its commitments under Articles 2.2 and 2.4 of the WTO 
+TBT Agreement and Paragraphs E and F of the TBT Agreement Code of Good Practice, 
+respectively. 
+
+Examples of specific standards-related issues in China include: 
+
+  The China National Information Security Standards Technical Committee 
+(TC260)’s continued discussion of office equipment information security 
+requirements. Development of these standards did not adhere to paragraphs D, 
+L, N and O of the TBT Agreement Code of Good Practice;  
+
+  CCC product safety standards, including GB 4943.1-2011, which contains 
+
+significant deviations from global standards. 
+
+One particular concerning trend USITO has observed in China’s standardization regime is 
+general lack of compliance with the TBT Agreement Code of Good Conduct, which 
+among other things calls for a 60-day comment period and mandatory reply to all 
+comments received by domestic and international stakeholders. China has 
+demonstrated its ability to provide for 60-day comment periods in some circumstances, 
+which reinforces our concerns that many of China’s ICT standards had comment periods 
+of 15-30 days, hardly sufficient to facilitate translation and expert review of the 
+standard. In addition, USITO has almost without exception never once received a 
+written response to any formal comments submitted to the Chinese government.   
+
+Chinese authorities should be encouraged to promote the use and adoption of 
+voluntary, open, global and industry-led standards, as well as to promote active 
+participation by Chinese organizations in global standards setting bodies and initiatives.  
+
+China remains focused on developing and maintaining unique Chinese standards that 
+feature Chinese technologies, rather than relying on commercial demand to drive 
+deployment. While understanding China’s desire to grow its ICT sector, we encourage 
+China’s government to adopt technology neutral policy and let the market select 
+technology and standards. 
+
+We would like to reiterate several principles for the development of technical standards 
+that we believe are important to robust trade and investment. We believe that in 
+general, standards should be voluntary and not mandated by government agencies. We 
+also encourage China to adopt the multi-path approach to the development of 
+international standards, rather than relying exclusively on the ISO, IEC, and ITU. World-
+
+ 
+ 
+ 
+ 
+USITO – China’s WTO Compliance 2015 USTR Filing 
+Submitted Thursday, 24 September 15 
+
+18 
+
+class standards are today developed by a variety of standards development 
+organizations and industry consortia, including organizations that have achieved global 
+prominence because of the international relevance and the broad range of participation 
+in development of their standards. Examples include the Institute of Electrical and 
+Electronics Engineers (IEEE), the Internet Engineering Task Force (IETF), and the 
+Worldwide Web Consortium (W3C). The WTO has outlined requirements for 
+organizations that seek to be considered as developers of international or global 
+standards, and we encourage China to recognize the broader WTO definition of 
+“international standardization bodies or systems" contained in Annex 1 of the TBT 
+Agreement, which includes any standardization body that is open to all WTO members 
+and meets the criteria set forth in the Decision of the TBT Committee on Principles for 
+the Development of International Standards that is contained in Annex 4 to the Second 
+Triennial Review of the Operation and Implementation of the Agreement on Technical 
+Barriers to Trade. USITO also encourages China to follow the attributes of eligibility 
+derived from the WTO principles including, but not limited to, openness, consensus, 
+balance, and transparency. 
+
+Finally, while not a WTO requirement, we urge that foreign-owned enterprises be 
+permitted – and encouraged – to participate in Chinese standards-development efforts 
+on an equal and non-discriminatory basis. The global practice for the development of 
+standards has been an open, interactive process, in which enterprises from around the 
+world can openly participate. The openness of these processes helps account for their 
+undeniable commercial effectiveness and helps ensure that any national standard is not 
+more trade restrictive than necessary. We believe that fair, open, and equal access to 
+participation, including the right to vote, in standards development efforts by Chinese 
+and non-Chinese enterprises alike will result in superior Chinese standards and superior 
+Chinese proposals for consideration by global standards bodies. 
+
+C. 
+
+CUSTOMS VALUATION 
+
+As part of its WTO accession agreement, China agreed to implement its obligations 
+under the Agreement on Customs Valuation (GATT Article VII) upon accession, without 
+any transition period. The purpose of this agreement is to make certain that the 
+customs value of imported goods for duty assessment purposes is determined in a 
+“neutral and uniform manner” that avoids arbitrary or fictitious valuation. It is our 
+experience that China is deviating from these requirements in three notable areas: 
+
+1.  The General Administration of Customs (GAC) uses an out-dated and arbitrary 
+pricing methodology for valuation purposes that does not take account of 
+modern, complex supply chain models. In particular, customs authorities do not 
+appear to understand transfer pricing, inbound and outbound bonded zone 
+valuation, and customer rebate/sales discounts associated with today’s supply 
+chain complexity. This has resulted in customs challenges to modern pricing 
+methodologies and a desire by officials to enforce unreasonable valuation 
+adjustments, based on their sole acceptance of a customs declaration value that 
+
+ 
+ 
+ 
+ 
+USITO – China’s WTO Compliance 2015 USTR Filing 
+Submitted Thursday, 24 September 15 
+
+19 
+
+is presumed to always become higher through the entire supply chain. For 
+instance, it is well known that in some business situations the selling price will be 
+reduced to offer a rebate or sales discount to customers. That price could be 
+lower than the values declared in preceding supply chain steps, including the 
+value declared on the inbound customs declaration at the time products are 
+imported. Chinese customs authorities should make concerted efforts to 
+understand the complexities and pricing mechanisms associated with modern 
+supply chain models and accept transaction value declared on the basis of these 
+models.  
+
+2.  Customs in China is also using valuation databases for determining the value of 
+goods and increasingly questioning the transaction value of imports. There are 
+some situations in which Chinese customs uses a “reference price” to ascertain 
+customs value, a process that has caused transaction values declared by an 
+importer to be rejected by customs officers because this value is lower than the 
+Customs arbitrary and fictitious reference price. China customs officials should 
+abandon the use of arbitrary and artificially created reference processes in 
+ascertaining the transaction value of goods. 
+
+3.  The process for customs valuation determinations varies from port to port and is 
+not transparent. This is a lack of willingness on the part of Chinese Customs 
+officials to issue written binding agreements on valuation in many instances. Oral 
+agreements are employed, but these agreements remain in effect only as long as 
+that individual remains employed by Chinese Customs. There should be uniform 
+handling across all Chinese ports of entry, and all agreements should be written 
+and available for all companies to view. 
+
+D. 
+
+CUSTOMS RELATED POLICY ISSUES 
+
+Inconsistent, inefficient, and opaque customs rules and procedures are inconsistent 
+with the direction of China’s WTO commitments to a trading regime that fosters 
+harmonization, transparency and simplified customs formalities. Key issues are listed in 
+detail below. 
+
+1.  Vague and Inconsistent Regulations:  Many existing Customs regulations lack 
+clarity and precision, and they are drafted and enforced in an inconsistent 
+manner. For example, a regulation dealing with duty-exemption assets in China 
+states that once a 5-year customs supervision period expires, the duty-exempted 
+asset will be de-bonded automatically. While this automatic expiration means 
+there is not a need to contend with a formal customs de-bonding process, the 
+regulation does not state whether bonded zones are covered. The result is that 
+Customs officials in some localities require a company to deal with de-bonding 
+formalities once the 5-year period ends, while Customs officials in other 
+locations permit automatic de-bonding. Customs rules, written at a high-level 
+and therefore lacking direction concerning operational details, fail to cover 
+numerous import-related areas. For example, there is very little regulatory 
+
+ 
+ 
+ 
+ 
+USITO – China’s WTO Compliance 2015 USTR Filing 
+Submitted Thursday, 24 September 15 
+
+20 
+
+guidance in current regulations on how to record, track, and reconcile high 
+volume items placed in a PRC bonded zone for later consumption in China 
+factory production. 
+
+4.  Resolution of Regulatory Issues:  It continues to be difficult to address or resolve 
+regulatory issues with Chinese customs officials. The General Administration of 
+Customs (GAC) maintains no systematic, repeatable, transparent, and 
+sustainable system to gather industry inputs, including but not limited to new 
+business trends, business challenges, or supply chain problems. GAC also lacks a 
+feedback mechanism to systematically respond to pressing industry issues. 
+Enterprises strive to communicate effectively with GAC, but the process is 
+laborious and conducive to unsatisfactory outcomes. GAC should establish a 
+clear, formal process to ensure timely and substantive responses to importer 
+issues along with a process that allows escalation of issues where disputes arise. 
+This should include GAC adoption of a systematic, repeatable, transparent, and 
+sustainable structure to gather industry inputs (new industry trends, business 
+challenges, supply chain problems) as well as a feedback mechanism for GAC to 
+systematically respond to importer issues.  
+
+5.  Need for “24x7” Customs Clearance:  Many factories in China operate on a “24 x 
+7 x 365” basis and need customs capacity that supports shipping and receiving 
+operations at all times. Customs clearance still relies on manual procedures in 
+China and is relatively slow compared to the other Southeast Asian countries. 
+Insufficient access to customs personnel by importing parties, due to limited 
+customs working hours on weekdays and on weekends, significantly hampers 
+efficiency of supply chain management. Consequently, companies have borne 
+additional costs due to goods languishing in a warehouse, as well as incurring 
+customer dissatisfaction because of delayed delivery of goods. A lack of 
+uniformity in customs work schedules and practices across the country 
+exacerbates the problem, with some local authorities having extended hours of 
+operation and others having more restricted operational schedules (such as 
+weekends). This inconsistent operating model significantly hampers the ability to 
+provide predictable logistical services in the shipment and delivery of goods. 
+Overall, a robust and efficient customs clearance capacity is an important aspect 
+of an established supply chain, and the removal of administrative bottlenecks 
+and procedural delays would substantially increase China’s ability to ensure 
+trade facilitation for all stakeholders. 
+
+6.  Customs Modernization:  In China, customs clearance still relies principally on 
+submission and processing of a paper declaration. Some cities are starting to 
+implement “e-Customs” solutions and paperless declaration pilots, but each city 
+is implementing different solutions and different plans. China could very 
+substantially increase the efficiency of its customs operations by establishing 
+paperless, efficient, and end-to-end paperless Customs solutions that are 
+standardized across all regions.  
+
+ 
+ 
+ 
+ 
+USITO – China’s WTO Compliance 2015 USTR Filing 
+Submitted Thursday, 24 September 15 
+
+7.  Bonded Zones: 
+
+21 
+
+a.  Efficiency:  Customs processes in a bonded zone in China continue to be 
+inefficient. Many operations in China are located in bonded zones along 
+with customers and suppliers. A big challenge in China is the bonded air 
+transfer process. According to Chinese law, GAC must supervise any 
+bonded air transfer between two bonded zones. There are four customs-
+related organizations involved in the entire process at the following 
+points:  (1) departure zone, (2) departure city airport, (3) arrival city 
+airport, and (4) arrival or receiving zone. Based on the current standard 
+bonded transfer process, it is required that three bonded transfers be 
+completed between these four customs authorities. The process is very 
+complex with long lead times, impacting supply chain efficiency. GAC 
+should simplify the bonded air transfer process across all the regions in 
+China to alleviate shipment delays and burdens. 
+
+b.  Compliance Requirement:  Many bureaucratic tracking and reconciliation 
+requirements exist relative to bonded zones. This challenges a bonded 
+zone company to track and reconcile everything, including high volume 
+manufacturing inputs (even tiny items like a nut, bolt, or screw). GAC 
+should streamline and simplify these requirements through risk 
+management and management-by-account procedures for trusted 
+entities such as companies with an “AA” or “A” status under China’s 
+enterprise rating system. 
+
+E. 
+
+CONFORMITY ASSESSMENT AND TYPE APPROVAL 
+
+Industry is encouraged by the August 2013 announcement by the State Council to 
+broadly streamline administrative approval systems. In particular, the Guidelines to 
+Promote Information Consumption and Boost Domestic Demand emphasize the need to 
+streamline administrative approval systems in the ICT industry by “reduc[ing] existing 
+approval requirements, minimize record-keeping systems and remove non-
+administrative approval and certification requirements. Promot[ing] joint approval, one-
+stop service, processing time limits for remaining administrative approval systems.”3 
+There appears to be a clear recognition by the Chinese government that reforms to the 
+existing conformity assessment process for the ICT industry are necessary. In addition, 
+we would note the recently implemented reforms to the China Compulsory Certification 
+(CCC) scheme and look forward to further reforms and streamlining of China’s 
+conformity assessment and type approval systems that appear to be underway. We are 
+encouraged to see that China designated some non-Chinese labs to undertake CCC-
+related testing in a recent supplementary designation of certification bodies and labs for 
+
+3 State Council of the PRC, “Guidelines to Promote Information Consumption and Boost Domestic Demand” (Chinese:  国
+务院关于促进信息消费扩大内需的若干意见), website: http://www.gov.cn/zwgk/2013-08/14/content_2466856.htm  
+
+ 
+ 
+ 
+ 
+                                                      
+USITO – China’s WTO Compliance 2015 USTR Filing 
+Submitted Thursday, 24 September 15 
+
+22 
+
+CCC certification. We hope such openings will continue to expand with a clear timeline 
+and roadmap that allows for additional non-Chinese labs to designated for CCC-related 
+testing.  
+
+However, as China continues to develop new regulations, it appears that the current 
+default conformity assessment requirements include mandatory third party certification, 
+most always with in-country testing, even though such requirements may be more 
+trade-restrictive than necessary. We believe that China would benefit from exploring 
+and implementing a more open approach that considers alternative conformity 
+assessment models that are based on the risk assessment of products.  
+
+China and the United States are among the 54 Member Bodies and 77 National 
+Certification Bodies (NCBs) participating in the International Electrotechnical 
+Commission’s (IEC’s) system for Conformity Testing and Certification of Electrical 
+Equipment (IECEE CB Scheme). The CB Scheme is an essential vehicle to provide market 
+access for products and eliminate redundant testing of products at multiple laboratories. 
+There are both existing and developing programs within the IECEE that are aimed at 
+improving data acceptance and harmonization of conformity assessment practices 
+across countries. During recent years, China has engaged positively within the IECEE CB 
+Scheme for product safety test report acceptance; however, laboratories in China today 
+are not making the best use of these international programs, and China also continues 
+to not fully accept manufacturing testing, as allowed under the CB Scheme. 
+
+Overall, the product testing and certification process in China is more burdensome than 
+in other markets, which increases the costs of exporting products to China and getting 
+them to market in a timely manner. Under China’s Network Access License (NAL), 
+unnecessary and undocumented testing requirements lead to delayed time-to-market 
+and cost increases. Despite JCCT commitments, there have not yet been significant 
+improvements to the streamlining of the system, or reduction of time or cost to attain 
+conformity assessment. Recent mobile security regulations also stand to add new 
+requirements to the network access license NAL process. USITO advocates for the NAL’s 
+scope to be limited to basic testing requirements for network interoperability and 
+functionality and the elimination of test requirements that support specific indigenous 
+technologies from the NAL. 
+
+Furthermore, MIIT’s lack of clear labeling requirement rules for type approval is creating 
+inconsistent application of labeling at the provincial level. Although MIIT has told 
+companies that labels can be affixed to packaging, some provincial government officials 
+continue to require companies to affix the label to the product. Given that NAL labels 
+must be purchased from MIIT directly, this lack of certainty results in significant re-
+labeling costs for particular products. Written and transparent labeling requirements 
+would reduce the amount of re-labelling required. 
+
+China’s current certification requirements for telecommunications equipment conflict 
+with its WTO obligations of limiting imported products to no more than one conformity 
+assessment scheme and requiring the same mark for all products (Article 13.4(a) of 
+China’s WTO Accession). China has three different licensing regimes—the Radio Type 
+
+ 
+ 
+ 
+ 
+USITO – China’s WTO Compliance 2015 USTR Filing 
+Submitted Thursday, 24 September 15 
+
+23 
+
+Approval, the Network Access License, and the China Compulsory Certification. 
+Therefore, for a given piece of equipment, it can cost between U.S. $20,000-30,000 to 
+test for all three licenses (NAL, RTA, CCC). MIIT indicates on its website that it processes 
+more than 4,000 applications a year, which represents approximately $100 million in 
+testing fees a year. It should also be noted that as smartphones and other devices 
+evolve with new functionalities, the testing fees can increase for a particular device 
+because these fees are dependent upon the number of functions on a particular device. 
+
+Lastly, some of China’s certification programs require disclosure of unnecessary 
+information, much of which is business confidential (e.g., source code and design 
+information for telecom network products and product content and supplier lists for 
+EHS/RoHS approvals). This is an increasing concern for foreign companies who are 
+forced to provide sensitive information or forego market access.  
+
+USITO appreciates the work of the U.S. government in following up on China’s 2011 
+JCCT commitment to continue engagement with MIIT to address these concerns. In the 
+meantime, USITO urges the Chinese government to promote the fuller adoption of the 
+IECEE CB Scheme and streamline its type approval process by:  
+
+  Encouraging acceptance of CB Scheme test reports by national laboratories;  
+
+ 
+
+Joining most other countries in participation in the IECEE CB Scheme for 
+Electromagnetic Compatibility (EMC);  
+
+  Reducing the number of tests required by the NAL to a minimum;  
+
+  Clarifying to provincial governments that manufacturers have the discretion to 
+meet the type approval labeling requirements for products by affixing the label 
+to either the packaging or on the product;  
+
+  Publishing all testing requirements in an accessible and transparent manner for 
+
+industry in a consolidated location on the MIIT website, including all 
+requirements for RTA and NAL tests;  
+
+  Establishing a regular, public stakeholder consultation mechanism to review 
+
+proposed new type approval testing requirements and procedures to enable an 
+ongoing dialogue with stakeholders on what is working and what may need 
+improvement and/or re-evaluation; and  
+
+  Negotiating and concluding a Mutual Recognition Agreement for testing and 
+
+certification with the United States.  
+
+Furthermore, new testing and factory audit requirements should also be announced 
+with a minimum 60 days’ notice to allow adequate time for industry to make the 
+transition to any new requirements, and all testing requirements and specifications 
+should be published and maintained on the Internet in an easily accessible format.  
+
+Finally, Chinese regulatory authorities should make sure that “conformity assessment 
+procedures are undertaken and completed as expeditiously as possible” (TBT Art. 5.2.1), 
+“information requirements are limited to what is necessary to assess conformity” (TBT Art. 
+
+ 
+ 
+ 
+ 
+USITO – China’s WTO Compliance 2015 USTR Filing 
+Submitted Thursday, 24 September 15 
+
+24 
+
+5.2.3), and “the confidentiality of information about products originating in the territories 
+of other Members arising from or supplied in connection with such conformity 
+assessment procedures is respected in the same way as for domestic products and in such 
+a manner that legitimate commercial interests are protected” (TBT Art. 5.2.4). 
+
+F. 
+
+CYBER SECURITY/INFORMATION SECURITY POLICIES 
+
+China continues to implement a number of cyber security and information security 
+related areas in which China’s policies create challenges for USITO member companies, 
+especially for commercial and non-sensitive government sector market access for ICT 
+products. This includes polices for product certification, encryption, and critical 
+information infrastructure protection (CIIP).  China’s distrust of foreign technologies and 
+governments often gives rise to unilateral approaches and exclusionary policies to 
+increase reliance on indigenous technology. This is exacerbated by unclear distinction in 
+China between commercial and government information systems, and between 
+information security and national security related concerns. Additionally, domestic 
+stakeholders seeking to benefit from market opportunities that might arise at the 
+expense of foreign competitors from security concerns that are manifested in 
+discriminatory Chinese policies.  
+
+Following are a number of specific policies and concerns that the U.S. ICT industry has 
+about China’s policies in this area. 
+
+1.  National Cyber Security Review Regime:  The State Council Internet Information 
+Office (SCIIO) recently confirmed in May of 2014 that the Chinese government 
+will establish a “review mechanism which will review ICT products and services 
+that may create risks to Chinese national security or “public interests.”  
+According to SIIO: “Critical information technology products and suppliers, with a 
+focus on investigating the security and controllable aspects of products in order 
+to prevent product suppliers from illegally controlling, disrupting, terminating 
+users systems, or illegally collecting, storing, processing, and using user related 
+information.  Products and services that don’t meet the related security 
+requirements will not be able to be used within China.”   
+
+According to USITO understanding the new review regime will indeed adopt the 
+“Security Code of Conduct for ICT Suppliers” by TC260, China’s national 
+information security review commission for defining key aspects of the review 
+regime including scope.  According to the draft “code of conduct,” the scope of 
+the review regime will be very broad to include the virtually commercial ICT 
+products and or service: “software and equipment having acquisition, storage, 
+processing, transmission, control, exchange and display functionality of data or 
+information, including computer and auxiliary devices, network equipment, 
+automatic control equipment, operating system, database, application software 
+and services, etc.”  
+
+ 
+ 
+ 
+ 
+USITO – China’s WTO Compliance 2015 USTR Filing 
+Submitted Thursday, 24 September 15 
+
+25 
+
+We are concerned that the broad and vague nature of the proposed Chinese 
+national cyber security review regime will have adverse negative effects not only 
+on foreign investors in the China market, but also Chinese consumers who could 
+be blocked from purchasing advanced ICT goods.  No other major economy has a 
+similar review mechanism in place that would govern the transaction of 
+commercial ICT goods within the private sector market.   
+
+2.  Multi-Level Protection Scheme (“MLPS”):  China continues gradual 
+
+implementation of the MLPS regime for classification and protection of critical 
+information infrastructure information (CII) systems, with restrictions on use of 
+foreign security technology in the top three MLPS-ranked levels (of five). USITO 
+advocates for removal of such restrictions as well as – for ICT products sold into 
+all MLPS levels – mandatory product assurance testing requirements to unique 
+Chinese standards, and enforcement of the 1999 commercial encryption 
+regulations outside their normal and limited jurisdiction. 
+
+a.  Analysis done by USITO’s parent associations demonstrates that a wide 
+
+swath of Chinese commercial infrastructure is now under the jurisdiction 
+of MLPS. Based on an analysis of available market data, USITO parent 
+association ITI estimates that MLPS likely covers 60-70 percent, or $35.2 
+billion-$41.0 billion, of China’s $58.6 billion total 2010 enterprise and 
+public sector IT spending. This estimate is based on an analysis of the 
+vertical industry sectors in the apparent scope of MLPS – banking and 
+finance; local and central government; insurance; health care; power 
+distribution; aviation and transportation; oil and gas; education; and 
+news and media – and their approximate percentage of the Chinese 
+economy. 
+
+b.  MLPS is a technical mandate that has been under development for many 
+
+years and is part of China’s overall national information assurance 
+strategy. In June 2007, China issued the Administrative Measures for the 
+Multi-Level Protection of Information Security, a mandate that sets down 
+guidelines to categorize information systems according to the extent of 
+damage a breach in the system could pose to social order, public interest, 
+and national security. The mandate also provides detailed technical 
+standards and certification requirements for products used in 
+information systems, which are to be categorized from level 1 (least 
+sensitive systems) to level 5 (extremely sensitive systems related to 
+national security requiring specialized oversight and inspection). 
+
+c.  Each level comes with its own specific product and management 
+
+requirements. For example, information security products in information 
+systems classified at level three and above are required to have core 
+technology with independent IPR in China, undergo a national 
+information assurance certification, and the product developers and 
+manufacturers must be invested or owned by Chinese citizens or legal 
+
+ 
+ 
+ 
+ 
+USITO – China’s WTO Compliance 2015 USTR Filing 
+Submitted Thursday, 24 September 15 
+
+26 
+
+persons. In addition, encryption requirements in the Measures may 
+include the mandatory use of Chinese encryption algorithms or 
+divulgence of cryptographic source code. A myriad of information 
+systems, such as those in banks and power utilities (which have been 
+regular customers of foreign suppliers of information security products) 
+are classified at level three. Because of the onerous testing requirements 
+involved in obtaining that classification (such as forced disclosure of 
+source code), many foreign security products will likely be excluded from 
+those “critical infrastructure” systems. Despite China agreeing at the 
+2012 JCCT to engage in technical discussions with the U.S. government 
+regarding market access barriers due to the MLPS scheme, these talks 
+have yet to begin.   
+
+3.  Commercial Encryption Regulations:  After years of ongoing revision, the Office 
+
+of the State Commercial Cryptography Administration (OSCCA) recently 
+indicated to industry and government that revision of the 1999 Commercial 
+Encryption Regulations was likely to be completed next year. USITO continues to 
+advocate for the full deregulation of commercial domestic and foreign-
+developed encryption, including that commercial encryption not be classified as 
+a state secret, and that companies not be required to obtain a license to import, 
+develop, use, or sell commercial foreign-developed encryption products in China. 
+
+China’s 1999 commercial encryption regulation deems all commercial encryption 
+a “state secret” and generally prohibits the use of foreign encryption products. In 
+2000, as a result of widespread foreign government and industry opposition, the 
+Chinese government clarified that foreign ICT products with encryption can be 
+sold in China, through an exemption process, if their “core function” is not 
+encryption. Foreign encryption products themselves are still banned from the 
+China market. Additionally, the State Cryptography Administration (SCA) requires 
+companies to turn over source code and other proprietary information for 
+testing by state laboratories in order to gain market access for certain encryption 
+products. 
+
+4.  ZUC Encryption Standard:  ZUC is China’s government-developed indigenous 
+
+encryption algorithm created for usage in 4G LTE networks, and perhaps in other 
+national communications networks. ZUC is the first encryption algorithm that 
+China proactively brought to the international standards community—it was 
+approved as an international voluntary standard by 3GPP in September of 2011. 
+Although we welcome China’s taking its standard through the international 
+standardization process, China’s SCA has confirmed that implementation of the 
+ZUC algorithm and related standards will be mandatory in the commercial 
+market – namely for all base-stations, mobile devices, and mobile management 
+equipment (MME) that connects to a 4G network in China. This is outside of 
+global norms as no other major country has mandated a specific algorithm for 
+usage in the commercial telecom market as a baseline for market access, and 
+
+ 
+ 
+ 
+ 
+USITO – China’s WTO Compliance 2015 USTR Filing 
+Submitted Thursday, 24 September 15 
+
+27 
+
+represents a significant expansion of the core-function test (see entry above) to 
+general-use commercial ICT products. While we remained concerned about the 
+mandate and lack of choice Chinese carriers have in implementing encryption 
+standards, we do note that the Chinese government backed away from 
+implementing onerous ZUC testing and certification requirements. Previous 
+versions of SEMB’s encryption module draft testing specifications would have 
+required ZUC-compliant equipment to undergo an extensive testing process that 
+includes a review of source code and other proprietary information. Industry had 
+asked MIIT and SCA to respect its various commitments towards technology 
+neutrality in the commercial market, and not engage in any additionally 
+mandatory encryption-related testing that would force disclosure of sensitive IP. 
+We note that, according to the TBT Agreement, members are required to 
+“specify technical regulations based on product requirements in terms of 
+performance rather than design or descriptive characteristics.” (TBT Art. 2.8). We 
+are glad to see MIIT embraced these principles in its final testing specifications 
+that were entirely based on performance requirements, and that during the 
+2013 JCCT, China confirmed that it would not require that any sensitive or 
+proprietary business information be divulged during the certification of ICT 
+products that support the ZUC encryption algorithm.   
+
+5.  Cloud Computing Security Standards:  With the increasing deployment of cloud 
+
+computing services in China, including in the public sector, the Chinese 
+government has begun to aggressively develop related technical security 
+standards. With the China National Information Security Standardization 
+Technical Committee TC260 as the lead, a number of problematic standards 
+have been drafted such as Information Security Technology: Government 
+Department Cloud Computing Service Provider Basic Security Requirements. 
+These requirements advocate for the in-country hosting of cloud data, and usage 
+of Chinese cloud providers, among other requirements. In July 2015, the 
+Cyberspace Administration of China and TC260 released another set of cloud 
+security standards and “Opinions” aimed at tightening management of cloud 
+adoption within Party and government departments, once again requiring that 
+data and information be stored within China and extending the MLPS into the 
+cloud sector. The “Opinions” also call for the creation of a uniform cybersecurity 
+review regime for cloud computing services, with a focus on “security and 
+controllability” of cloud services. USITO advocates for the Chinese government 
+to take a balanced approach towards cloud computing security in China that 
+respects the need for additional security measures within the government realm, 
+but also allows for the adoption of global norms and standards.   
+
+6.  China Compulsory Certification For Information Security (“CCCi”):  In 2007, 
+China announced through a WTO TBT notification the development a new 
+testing and certification framework under the China Compulsory Certification 
+(CCC) program for 13 categories of information security products sold into the 
+commercial market. Foreign industry and the European Union, Japan and the 
+
+ 
+ 
+ 
+ 
+USITO – China’s WTO Compliance 2015 USTR Filing 
+Submitted Thursday, 24 September 15 
+
+28 
+
+United States reacted very negatively to the initiative, as it would have 
+unnecessarily disrupted global trade and potentially discriminated against 
+foreign IT products. As a result, in 2012 China cut the scope of CCCi regulations 
+back to the government procurement market. Nonetheless, due to requirements 
+for source code disclosure and product testing in government-affiliated 
+laboratories, the framework has been virtually unworkable for foreign 
+companies and foreign companies have not applied for the certification.  
+
+V.  NATIONAL TREATMENT 
+
+A. 
+
+GOVERNMENT PROCUREMENT MEASURES FAVORING LOCAL CONTENT 
+
+Government procurement in China is primarily under the regulation of two national 
+laws: the Government Procurement Law and the Tender Law, and local government 
+procurement measures. The Government Procurement Law has been amended in 
+August 2014, and GPL Implementation Regulations were revised and released on 
+January 2015.  
+
+The GPL does not define domestic goods, projects and services.  Rather, it authorizes 
+the State Council to determine the definition.  In the Implementation Regulations, 
+“domestic goods” is defined as goods manufactured within the territory of China, and 
+domestic manufacturing cost is vaguely set “above a certain percentage.” “Domestic 
+projects and services” are defined to be projects and services provided by Chinese 
+citizens, legal persons or other organizations. USITO advocates for an exemption from 
+this regulation for ICT products due to their complex global supply chain.  
+
+B. 
+
+PUBLIC PROCUREMENT TIED TO DOMESTIC IP 
+
+Indigenous innovation refers in general to a set of national and regional policies 
+promoting development of local technology and IP, and more particularly to a specific 
+set of policies that incentivize public procurement of products with ‘indigenous’ IP. In 
+2011, the MOF and Ministry of Science and Technology (MOST) each repealed key 
+indigenous innovation policies, which industry generally viewed as a positive 
+development. However, while the Central Government has reiterated China’s 
+commitment to foreign investment and suspended publication of a national Indigenous 
+Innovation Product Catalogue during bi-lateral talks with the United States, some 
+regional governments continue to implement government procurement policies that 
+favor products developed with local IP, or even products with IP from a particular 
+province or municipality, over foreign ones. 
+
+ 
+ 
+ 
+ 
+ 
+USITO – China’s WTO Compliance 2015 USTR Filing 
+Submitted Thursday, 24 September 15 
+
+29 
+
+Transparent, merit-based, technology neutral, non-discriminatory and pro-competitive 
+procurement ensures that the government as a user of technology obtains the best 
+goods and services for the best value.4 Limiting government procurement to 
+indigenously developed products, whether defined by nationality of IP ownership, 
+security and controllability, or any other factors, fails to appreciate the truly global and 
+cross-border nature of innovation and product development, as well as the very 
+substantial and critical contributions that multinational technology companies are 
+making to China’s own capacity as a global innovation leader. USITO asks that China fully 
+implement its pro-competitive procurement policy decisions at all levels of government, 
+ensure that its procurement policies are consistent with GPA norms as reflected in prior 
+JCCT commitments, and promptly join the GPA on strong commercial terms. 
+
+C. 
+
+GOVERNMENT PROCUREMENT 
+
+While China’s trade partners have made considerable efforts to persuade China to join 
+the WTO Agreement on Government Procurement (GPA) before and after China’s WTO 
+accession China has not yet become a party. China was accepted as an observer to the 
+GPA on February 21, 2002. USITO advocates clear and steady improvements in 
+government procurement policy, building toward accession to the GPA as soon as 
+possible. 
+
+USITO recommends the U.S. government continue engaging the Chinese government in 
+discussing the issue in the Strategic and Economic Dialogue (S&ED) and JCCT sessions. 
+The U.S. ICT industry recommends that, based on the priorities below, U.S. government 
+officials use the JCCT meeting to continue addressing the following concerns with 
+China’s revised offer: 
+
+  An implementation date of 16 years after accession is unique amongst GPA 
+
+signatories. 
+
+  As for product coverage, the U.S. ICT industry strongly urges that the U.S. 
+government pursue a negative list approach that assumes all products are 
+covered, unless justified otherwise, and that the commitment by China includes 
+a broad coverage of services comparable to that provided by other Parties to the 
+GPA. 
+
+  The proposed thresholds are far above those of other signatories to the GPA, 
+and lack a meaningful basis for implementation of China’s commitments. 
+
+ 
+
+It is essential that the coverage of entities be meaningful and effective. Some 
+wholesale carve-outs lack justification and are unwarranted. 
+
+4 See, e.g., draft National Competition Policy Statement of the Government of India (July 28, 2012) (citing to an OECD 
+survey which indicates that “savings to public treasuries between 17 percent and 43 percent have been achieved in some 
+developing countries through implementation of competitive procurement processes.”) 
+
+ 
+ 
+ 
+ 
+                                                      
+USITO – China’s WTO Compliance 2015 USTR Filing 
+Submitted Thursday, 24 September 15 
+
+30 
+
+  We urge that the coverage of the commitment be as comprehensive as possible 
+
+at the central and sub-central government level. 
+
+The U.S. ICT industry continues to urge the U.S. government to pursue a comprehensive 
+approach whereby central government entities are included in the commitment 
+predicated on the key underlying laws that establish the organization of the State 
+Council, and that regulate personnel appointments. At minimum, the obligation should 
+include any entity that is subject to the Government Procurement Law.5 Sub-central 
+government entities should include (1) the governments of the Administrative Divisions 
+(“Provinces”) (sheng); (2) the governments of the five autonomous regions (zizhiqu); (3) 
+the governments of the four municipalities6 (shi); and (4) any “body governed by public 
+law”7 enacted by these governments (i.e., subordinate entities of the Sub central 
+governments). 
+
+It is essential that a meaningful Annex 3 (addressing state-owned enterprises (SOEs)) 
+should be included. Much remains to be done in this regard. Moreover, it must be noted 
+that China’s WTO accession agreement included many provisions that directly or 
+indirectly addressed state-owned (and state-invested) enterprises. Specifically: 
+
+  China agreed at that time that laws, regulations, and measures relating to the 
+
+purchase by state-owned (and state- invested) enterprises of goods and services 
+for commercial sale, production of goods or supply of services for commercial 
+sale or for non-governmental purposes will be subject to certain WTO rules, and 
+that such laws, regulations, and measures would not be considered to be laws, 
+regulations, and measures relating to government procurement.8 
+
+  China also agreed that state-owned and state-invested enterprises would make 
+purchases and sales based solely on commercial considerations, such as price, 
+quality, marketability, and availability; would be on non-discriminatory terms 
+and conditions; and that the government would not influence the commercial 
+decisions of state-owned or state-invested enterprises.9 
+
+D. 
+
+TRANSPARENCY 
+
+5 Article II of government procurement law states that the following entities are subject to the Government Procurement 
+Law: "Government Procurement" refers to the purchasing activities conducted with fiscal funds by government. 
+departments, institutions and public organizations at all levels, where the goods, construction and services concerned are 
+in the centralized procurement catalogue complied in accordance with law or the value of the goods, construction or 
+services exceeds the respective prescribed procurement thresholds. 
+6 The governments of the 4 municipalities are considered “provincial-level administrative units under the management of 
+the Central Government,” and approved by the Chinese National People’s Congress. These cities are subject to the laws 
+and administration of the State Council. 
+7 Any “body governed by public law” enacted by these governments is a body: 
+-- Established for the specific purpose of meeting needs in the general interest, and not having an industrial or commercial 
+character, and -- Having legal personality, and -- Financed, for the most part, by the Provincial, Autonomous or Municipal 
+authorities, governed by public law, or subject to management supervision by those bodies, or having an administrative, 
+managerial or supervisory board, more than half of whose members are appointed by Provincial, Autonomous or 
+Municipal authorities or by other bodies governed by public law. 
+8 See Paragraph 47 of the REPORT OF THE WORKING PARTY ON THE ACCESSION OF CHINA, WT/ACC/CHN/49, 1 
+October 2001. 
+9 See Paragraph 46 of the REPORT OF THE WORKING PARTY ON THE ACCESSION OF CHINA. 
+
+ 
+ 
+ 
+ 
+                                                      
+USITO – China’s WTO Compliance 2015 USTR Filing 
+Submitted Thursday, 24 September 15 
+
+31 
+
+USITO notes that the Chinese government took some positive steps in 2015 to improve 
+the information transparency of government procurement. It has been hoped that this 
+step would act as a catalyst to give individuals and organizations the legal right to 
+request information from the government in an orderly manner. It is important for the 
+U.S. government to continue pressing China to meet its WTO and JCCT commitments on 
+government transparency, including those relating to the formulation of industry 
+policies. 
+
+Specifically, the long overdue Telecom Law has yet to be completed and the drafting 
+process is opaque. The same lack of transparency affects regulations, which continue to 
+be issued without prior public discussion, a most fundamental requirement of a 
+transparent administration. Since regulations directly affect the welfare and 
+opportunities of industry participants and end-users, these groups have a direct 
+interest—and expertise—to contribute to developing sound regulation. Transparent 
+opportunities to participate in China’s rulemaking process are necessary for industry to 
+have confidence in stable investment opportunities. 
+
+The China Banking Regulatory Commission (CBRC) information security guiding opinions 
+have also raised serious concerns about transparency. In 2015, the CBRC first issued and 
+then suspended their guiding opinions, all without making key documents available to 
+the public or open for discussion. In the 2015 JCCT, China made a commitment to 
+consult with the United States on generally applicable ICT regulations in the commercial 
+banking sector, vowing to draft regulations in a transparent manner that provides 
+meaningful opportunity for foreign and domestic input, and to develop banking ICT 
+regulations that are non-discriminatory and do not impose nationality-based conditions 
+or restrictions on the purchase, sale, or use of such products by commercial 
+enterprises.  That said, the manner in which the CBRC has sought foreign industry input 
+– through a last-minute, opaque meeting that was only open to select companies – 
+should raise concerns about whether China is actually committed to a more transparent 
+policy development process.   
+
+E. 
+
+ENVIRONMENT AND ENERGY EFFICIENCY REGULATIONS AND STANDARDS 
+
+Over the past few years, USITO has provided feedback to the National Development and 
+Reform Commission (NDRC), the Ministry of Environmental Protection (MEP), the MIIT, 
+the Certification and Accreditation Administration (CNCA), and other Chinese ministries 
+and agencies on a number of issues including environmental regulations, product 
+energy efficiency standards, as well as eco-design related products standards. Below are 
+some overarching principles that we recommend to the Chinese government in this 
+space: 
+
+  Regulations should be open, transparent, non-discriminatory, and based on 
+
+sound technological specifications and market statistics. 
+
+  Partnerships between governments and industry should be encouraged to 
+develop and make more readily available the benefits of new technologies. 
+
+ 
+ 
+ 
+ 
+USITO – China’s WTO Compliance 2015 USTR Filing 
+Submitted Thursday, 24 September 15 
+
+32 
+
+  When China considers a substance restriction regulation or manufacturing 
+
+process replacement, it should consider existing international standards and 
+base development of such regulation on life cycle environmental impact analyses.  
+
+  The high tech industry encourages industry consultations at each stage of 
+
+regulation development to achieve consistency and transparency. 
+
+The following is a list of key regulatory areas involving issues of concern for USITO, its 
+parent associations and member companies. 
+
+1.  RoHS: Industry appreciates the openness of MIIT officials in their regular 
+
+communication with industry on the implementation and development of the 
+China RoHS program.   
+
+In June 2015, MIIT released a revised Electronic and Electrical Products Pollution 
+Controlling Management Measures (China RoHS II) for public comment. While 
+USITO greatly appreciates the fact that the policy was opened for public 
+comment, as well as the willingness of relevant MIIT officials to share 
+information and offer their rationale, the policy’s eventual implementation is 
+expected to cause difficult challenges for foreign industry.  
+
+USITO highly recommends the adoption a self-declaration of compliance (SDOC) 
+approach in China RoHS II. We advocate for China’s elimination from its RoHS 
+program any requirements for disclosure of proprietary information, including 
+suppliers and material composition of ICT products. 
+
+The state-promoted voluntary certification program by MIIT and CNCA, which 
+was implemented on November 1, 2011, was billed as a means to promote 
+awareness of RoHS issues. The rules require companies to use only authorized 
+Chinese testing facilities, which in turn require disclosure of proprietary 
+information in order to obtain RoHS certification. CNCA and MIIT have jointly 
+released a list of China RoHS accreditation institutions, including CQC, CESI and 
+Jianheng Agency, as well as a list of accredited testing laboratories. The rules also 
+require factory inspections. Industry is continuing to work with the U.S. 
+government and Chinese authorities to discuss these concerns and their 
+implications for trade and market access. The fact that this certification program 
+currently is voluntary does not reduce its significance, as Chinese officials have 
+ways through government procurement pressure, Waste Electrical and 
+Electronic Equipment (WEEE) fee reduction, and otherwise to make such 
+programs de facto mandatory. USITO emphasizes the need for continued 
+industry-government dialogue and collaboration. USITO also encourages China's 
+inclusion of internationally accredited testing facilities in and outside of China as 
+authorized RoHS testing facilities. 
+
+WEEE: China’s Regulation on WEEE is a national E-waste collection and recycling 
+regime. The “Administrative Regulation on Recycling and Treatment of Waste 
+Electrical Appliances” entered into effect January 1, 2011, and a new, expanded 
+product catalogue was issued in February 2015. The regulation contains 
+
+ 
+ 
+ 
+ 
+USITO – China’s WTO Compliance 2015 USTR Filing 
+Submitted Thursday, 24 September 15 
+
+33 
+
+provisions that may provide WEEE fee reduction for the RoHS voluntary 
+certification, and therefore promotes the troublesome certification over other 
+RoHS conformity models. Second, under a the current catalogue of products 
+subject to China WEEE requirements, numerous categories of products are 
+subject to mandatory recycling, with the possibility of further expansion in the 
+future. According to the recycling data released by MEP, hundreds of millions 
+dollar fee paid by USITO members have been paid to qualified recyclers of used 
+refrigerators, washing machines, televisions, and air conditioners. By July 2013, 
+there is no data available on recycled used computers. 
+
+Currently, USITO is concerned about:  
+
+  Lack of a dedicated computer WEEE fund despite computer 
+manufacturers’ full support of the fee collection activities. 
+
+  Further expansion of mandatory WEEE product catalogue without a 
+
+thorough review of the phase I implementation of China WEEE regulation 
+and a science-based evaluation of recycling models for each product 
+category. 
+
+We recommend the Chinese government: 
+
+  Restructure the China WEEE fund to ensure fees collected from each 
+
+product category are dedicated to recycling of used products that fall into 
+such category. 
+
+  Complete a review of the China WEEE regulation implementation for the 
+first batch of five product categories and solve key implementation 
+problems before catalogue expansion. 
+
+2.  Energy Efficiency: China’s energy efficiency programs present a number of 
+
+challenges to foreign companies, including onerous compliance requirements, 
+extremely tight timeframes for compliance, and more importantly potential 
+inconsistency with globally adopted technical standards in some cases. 
+
+Energy conservation has become a priority for China with the central 
+government seeking ways to make China an "energy-saving" society. For the ICT 
+sector, China has finished or is revising the standards for printers/copiers, 
+computers, and monitors. Other Minimum Energy Performance Standards (MEPS) 
+the China National Institute of Standardization (CNIS) is planning to develop 
+include data centers and servers. The increased regulatory activity in this sector 
+can raise significant issues for foreign ICT companies.  
+
+We recommend the following overarching standards development principles in 
+the area of Chinese MEPS: 
+
+  Quality Data Collection:  analysis of product energy performance data 
+
+should be based on the full range of products and technologies that are 
+
+ 
+ 
+ 
+ 
+USITO – China’s WTO Compliance 2015 USTR Filing 
+Submitted Thursday, 24 September 15 
+
+34 
+
+currently available to customers in the market place, taking into 
+consideration future market trends. 
+
+  Scientific Calculation Model:  standard drafters should evaluate product 
+energy consumption via the scientific calculation models. A technically 
+sound approach is fundamentally important to the MEPS development. 
+
+  Global Alignment:  Chinese MEPS should be in alignment with globally 
+
+adopted standards, such as the Energy Star Program technical 
+requirements, including exemptions. ICT companies are deeply invested 
+in this set of technical specifications. Any deviation from the global norm 
+would unnecessarily place onerous burden on the manufacturers. 
+
+3.  Green Procurement, Low Carbon Assessment, and Other Sustainability Related 
+Policy Issues: USITO recognizes the Chinese government’s role in promoting 
+environmentally friendly products. We fully support China’s goal of becoming a 
+leader in green procurement and other sustainability-related realms. We provide 
+the following industry recommendations to the Chinese government: 
+
+  Green Procurement:  Work closely with industry stakeholders to stay 
+updated on key green procurement standards development, i.e. IEEE 
+1680 series. 
+
+  Low Carbon Assessment:  Fully assess the available carbon emission 
+
+evaluation technical tools in the market and consider consolidation of 
+existing low carbon-related standards, voluntary certifications, and eco-
+labelling regime before launching any new low-carbon certification. 
+
+  Supply Chain Sustainability:  Adopt a science-based approach in 
+
+considering phasing out manufacturing processes that may generate 
+perceived environmental impacts. Open a dialogue on ICT sector 
+environmentally-sound practices. 
+
+VI.  COMMUNICATIONS & INFORMATION SERVICES 
+
+A. 
+
+IMPEDIMENTS TO MARKET ACCESS 
+
+1.  Proposed Broad Expansion of Telecom Services Regulations: In the past year, 
+there does not appear to have been any concrete action to adopt the draft 
+revisions to the Catalogue of Telecommunication Service Categories (Telecom 
+Services Catalogue) and the draft Administrative Measures for the Trial 
+Operation of New Types of Telecommunications Businesses (Trial Operations 
+Measure) by MIIT. However, we remain deeply concerned with the draft policies 
+due to the potentially significant setback they present in the liberalization of 
+China’s telecom market. While we applaud the efforts of MIIT to address the 
+
+ 
+ 
+ 
+ 
+ 
+USITO – China’s WTO Compliance 2015 USTR Filing 
+Submitted Thursday, 24 September 15 
+
+35 
+
+dramatic changes in the ICT sector, the draft revisions to the Catalogue and the 
+draft Measure will provide MIIT with a greatly expanded level of regulatory 
+oversight while creating new market access barriers and imposing new 
+investment restrictions. Furthermore, increasing restrictions on the flow of data 
+over the Internet are impeding the ability of companies from all sectors of the 
+economy to operate and serve their customers.  Surveys of foreign companies 
+operating in China have demonstrated that over 80% of companies find China’s 
+Internet restrictions to be harming their business. China’s Internet controls run 
+counter to its goals of developing e-commerce and a broader Internet-enabled 
+economy that it announced in its Internet Plus strategy earlier this year. 
+
+The draft revisions to the Telecom Services Catalogue and draft Trial Operations 
+Measure do not appear to be consistent with China’s WTO GATS commitments. 
+These measures would restrict the ability of foreign service suppliers to acquire 
+licenses and furthermore, demonstrate a bias in favor of domestic over foreign 
+license applicants, which at a minimum, are in tension with China’s WTO 
+commitments on domestic regulation, market access, and national treatment.   
+
+Most troubling is that the draft revisions to the Telecom Services Catalogue and 
+the draft Trial Operations Measure broaden the licensing scheme to new 
+categories of ICT services and increase the level of control for certain services 
+that are already subject to licensing requirements. Contributing to these 
+concerns is that the draft revisions to the Catalogue and the draft Measures 
+incorrectly classify a wide range of ICT technologies and services as telecom 
+services, when in fact they are computer or business services that utilize the 
+public telecom network as a method of delivery. We have identified four initial 
+areas of concern with regard to China’s WTO commitments: 
+
+  Licensing Procedures As Barriers to Market Access:  China committed to 
+not use its licensing procedures and conditions as a barrier to market 
+access or in a manner more trade restrictive than necessary, but the draft 
+revisions to the Catalogue and the draft Measure would subject a broad 
+set of services to cumbersome, unreasonable, and unnecessary licensing 
+restrictions. 
+
+  Not Respecting “Acquired Rights”:  China committed to ensure that 
+foreign service suppliers that enjoyed certain rights prior to China’s 
+accession to the WTO would have these rights preserved after China’s 
+accession, but the draft revisions to the Catalogue and the draft Measure 
+alter such rights insofar as the draft revisions to the Catalogue and the 
+related licensing regulations impose new conditions on 
+telecommunications service suppliers with longstanding business in China. 
+
+  Discrimination:  China has committed to afford foreign 
+
+telecommunications service suppliers treatment not less favorable than 
+“like” domestic service suppliers, but the draft revisions to the Catalogue 
+
+ 
+ 
+ 
+ 
+USITO – China’s WTO Compliance 2015 USTR Filing 
+Submitted Thursday, 24 September 15 
+
+36 
+
+and draft Measure effectively prohibit or, at the very least, restrict the 
+availability of telecommunications services licenses to foreign-invested 
+telecommunication enterprise suppliers.  
+
+  Denial of Market Access:  China has committed to refrain from impeding 
+market access to foreign suppliers of computer and related services, but 
+China’s domestic classification notwithstanding, certain computer and 
+related services such as cloud computing are arguably so impeded. 
+
+As mentioned previously, some services are inappropriately redefined under the 
+draft revisions to the Telecom Services Catalogue, which would impose a variety 
+of new restrictions on market access (e.g. through equity caps, joint venture 
+requirements, and minimum capitalization requirements) for the provision of 
+services that are improperly considered telecom services. It is well settled in 
+WTO jurisprudence that a service can only fall under a sector or sub-sector and 
+cannot fall under two sectors or two sub-sectors.10 Below is a preliminary list of 
+services in the draft revisions to the Telecom Services Catalogue that we have 
+found to be inconsistent with established WTO jurisprudence: 
+
+  Cloud-based computing is improperly identified in category B1, B21, and 
+B25 as various different types of telecommunication services.  Yet while 
+cloud computing services may use telecommunications networks and 
+services, they are supplying computer related services (CRS). 
+
+  E-Commerce is improperly identified in category B21 as an Online Data 
+Processing Service, when it should remain under China’s existing WTO 
+Service Schedule Category 4.E or Distribution Services - Wholesale or 
+retail trade services away from a fixed location. Under this category, 
+there are no limitations on foreign investors.  
+
+  Audio, video, and application software is improperly identified in 
+
+category B25 as an information service when it should remain under 
+China’s existing WTO Service Schedule Category 2.D, or Audio/Visual 
+Services. Under this category, there are no limitations on the percentage 
+of equity that a foreign service supplier may hold in a joint venture. 
+
+Such improper identification of services in the draft revisions to the Telecom 
+Services Catalogue, read together with existing restrictions on foreign 
+investment in value-added telecom services, would impose more stringent 
+limitations on a wide range of business services, which appears to be 
+inconsistent with China’s WTO accession commitments under its Service 
+Schedule. The draft catalogue sweeps a number of new services, such as cloud 
+computing, into the telecommunications services licensing regime and subjects 
+
+ 
+ 
+ 
+ 
+                                                      
+ 
+ 
+USITO – China’s WTO Compliance 2015 USTR Filing 
+Submitted Thursday, 24 September 15 
+
+37 
+
+those services to equity caps and joint venture and capitalization requirements. 
+USITO recommends that China remove these restrictions in accordance with 
+international norms, including eliminating equity caps for foreign companies. 
+
+The ICT industry continues to be a dynamic and innovative industry in China and 
+around the world. The process of revising the Telecom Services Catalogue and 
+drafting the Trial Operations Measure should be used as an opportunity to 
+further enhance the ICT ecosystem in China by reducing barriers to entry in basic 
+services, VAS, and services that utilize the Internet (i.e. over the top services), 
+rather than create additional impediments to innovation and restrictions to 
+access to these important services to Chinese customers, which will ultimately 
+hinder economic growth. USITO urges China to re-evaluate the draft revisions to 
+the Telecom Services Catalogue and the draft Trial Operations Measure in light 
+of the apparent inconsistencies with China’s GATS commitments and broader 
+WTO commitments. In addition, these measures will make it harder for China to 
+develop its ICT market because licensing restrictions create a higher bar for 
+market entry for all providers, domestic and foreign, which is in direct 
+contradiction with China’s Internet Plus strategy. 
+
+2.  Existing Challenges with China’s Communications & Information Services 
+
+Regulations: While we continue to have concerns with a number of Chinese 
+policies with respect to Communications Services, we have been encouraged by 
+the Chinese government’s stated intent to broadly implement market-oriented 
+reforms as announced at the 3rd Plenum of the 18th Communist Party of China 
+Central Committee in November 2013.  The high-level policy direction is now 
+being manifested through incremental steps that are reflected in the draft 
+amendments to the Radio Regulation of the People’s Republic of China (Radio 
+Regulation), the Shanghai Pilot Free Trade Zone (SFTZ), and the implementation 
+of the Virtual Mobile Network Pilot Project.   
+
+The draft amendments to the Radio Regulation represent an update to an 
+important set of regulations for the telecom sector, and USITO was pleased to 
+have the opportunity to provide comments to the initial draft and would 
+encourage the Chinese government to use an iterative process with additional 
+comment periods prior to finalizing the amended Radio Regulation.  Done right, 
+the Radio Regulation has the potential to increase the influence of market forces 
+through auctions for the allocation of spectrum in the future.   
+
+While the SFTZ does offer some benefit to foreign investors in the ICT sector, the 
+scope of market liberalization is narrow, which limits the commercial benefits for 
+foreign investors.  USITO would urge the Chinese government to continue to 
+advance the range of ICT market reforms in the SFTZ, including further increases 
+in FDI limits for services delivered over the Internet and the removal of FDI 
+restrictions on data centers in the SFTZ, among other actions.     
+
+ 
+ 
+ 
+ 
+ 
+USITO – China’s WTO Compliance 2015 USTR Filing 
+Submitted Thursday, 24 September 15 
+
+38 
+
+The implementation of the Mobile Communication Resale Business Pilot Plan in 
+2014 is a welcomed development as it will encourage competition and 
+innovation in China’s domestic mobile telephone market.  However, in order to 
+ensure adequate competition and avoid national treatment issues, we 
+recommend that the Pilot Plan be opened to participation by foreign companies. 
+
+China limits foreign direct investment in telecommunications to 49 percent for 
+basic services and 50 percent for value-added services (VAS). A further 
+problematic restriction is the requirement that foreign telecom service providers 
+may enter into a joint venture only with one of the three existing state-owned 
+enterprise telecom providers for Basic Services. Market entry opportunities for 
+U.S. telecommunications providers in China are also limited by several additional 
+factors, including an overly narrow definition of VAS for value added network 
+service licensing that is not consistent with generally accepted international 
+practices. 
+
+The protection of the rights of VAS providers in China’s market is insufficient. 
+First, it is critical for VAS providers to have access to basic telecommunications 
+network elements on reasonable terms and on a non-discriminatory basis. In 
+light of the limited competition in China’s market and the fact that its three 
+principle carriers are state-owned, the Chinese government has an important 
+responsibility to ensure adherence to the principles laid out in the GATS Annex 
+on Telecommunications.  
+
+Second, it is critical that MIIT interpret the definition of VAS in a manner that is 
+consistent with China’s explicit WTO commitment and widely accepted 
+international standards. The definition within China’s commitment includes 
+several tests of what qualifies as a VAS. Whereas some of the alternative tests 
+are specific services (e.g., electronic mail, voice mail, electronic data 
+interchange), other of the alternative tests are functionalities that can exist in a 
+variety of innovative services (e.g., code and protocol conversion, on-line 
+information and data base retrieval, on-line information and/or data processing). 
+The inclusion of these functionality tests in the China commitment on VAS is 
+consistent with the VAS definitions applied internationally, and China should 
+follow through to interpret their definition in accordance with international 
+standards and expectations.  
+
+In addition to encouraging a more expansive licensing approach to VAS in China, 
+the U.S. government should consider encouraging China to replace the current 
+conservatively applied vertical service classification guidelines (i.e., basic/value-
+added) with more objective and transparent guidelines for Type I (facilities-
+based) and Type II (non-facilities based) licenses in order to accelerate service 
+provider market entry. This approach would provide certainty to investors by 
+permitting the provision of any non-facilities based service on the same terms 
+and conditions as VAS, thus allowing companies to innovate and provide services 
+as technology evolves.  
+
+ 
+ 
+ 
+ 
+USITO – China’s WTO Compliance 2015 USTR Filing 
+Submitted Thursday, 24 September 15 
+
+39 
+
+China's unreasonably high capitalization requirement for basic 
+telecommunications services has further greatly limited market access. Basic 
+services licenses are subject to a U.S. $163 million joint venture capitalization 
+requirement, which is 100 times larger than the joint venture capital 
+requirement for China’s VAS licensees, and comprises an excessively 
+burdensome restriction that violates Article VI of the GATS. A Foreign Service 
+provider otherwise meeting the licensing qualifications is unlikely to allocate 
+such capital to a new and risky enterprise, and a Chinese joint venture partner is 
+unlikely to divert this capital from its core business. China has already 
+established a precedent for lowering its foreign joint venture capitalization 
+thresholds in other sectors, including insurance and trading companies, and it 
+should now remove this barrier to market access in the telecom sector. 
+
+Furthermore, China has not implemented its WTO Reference Paper commitment 
+to establish an independent regulator. The Chinese government still owns and 
+controls all major operators in the telecommunications industry, and the MIIT 
+still regulates the sector. USITO encourages the U.S. government to place a high 
+priority on working with China to establish a regulatory body that is separate 
+from, and not accountable to, any basic telecoms supplier, and that is capable of 
+issuing impartial telecom decisions and rules. Specifically, it is important that the 
+regulatory body adopts the following:  
+
+  Transparent procedures for drafting, finalizing, implementing, and 
+
+applying regulations and decisions;  
+
+  Appropriate measures, consistent with the WTO Reference Paper to 
+
+prevent dominant suppliers from engaging in, or continuing, 
+anticompetitive practices;  
+
+  A defined procedure – as it has done for interconnection – to resolve 
+
+efficiently and fairly public telecom suppliers’ commercial disputes over 
+their agreements;  
+
+  An independent and objective process for administrative reconsideration 
+
+of its decisions; and  
+
+  Appropriate procedures and authority to enforce China’s WTO telecom 
+commitments, such as the ability to impose fines, order injunctive relief, 
+and modify, suspend, or revoke a license.  
+
+USITO also encourages the U.S. government to continue to urge China to provide 
+reasonable notice and the opportunity for public comment on proposed 
+regulations. 
+
+The above restrictions directly constrain meaningful competition from foreign 
+participants. This holds back service innovation and reliability from reaching 
+world-class levels. In turn, business customers cannot obtain the value-added 
+services they need to run efficient companies. Ultimately, this undermines 
+
+ 
+ 
+ 
+ 
+USITO – China’s WTO Compliance 2015 USTR Filing 
+Submitted Thursday, 24 September 15 
+
+40 
+
+China’s information and communications technology policy goals and deprives 
+Chinese consumers of access to new innovative technologies and of a broader 
+choice of telecommunications services. 
+
+One example is that China’s policies restrict the use of VoIP to closed user groups. 
+China should allow all VoIP providers to offer services that connect to the PSTN 
+on an unlicensed basis and eliminate joint venture requirements that apply to 
+non-Chinese companies who wish to offer VoIP services in China.  
+
+International companies seek reasonable terms of competition to enter China’s 
+market. There is significant interest among foreign carriers and value-added 
+service providers in China. The dearth of companies applying for foreign invested 
+telecom enterprise (FITE) licences is not due to a lack of interest in the market, 
+but to the unfavorable terms of entry that currently characterizes the relevant 
+regulations. 
+
+In addition to the challenges listed above, the following critical changes would 
+help stimulate investment and competition in China’s value-added telecom 
+services market: 
+
+  The VAS Catalogue should affirm protections for international 
+
+connectivity rights and commitments on the cross-border flow of data. 
+
+  The Catalogue should have clear definitions so as to leave no ambiguity 
+
+over the types of services requiring a VAS license. 
+
+  We recommend classifying basic services as the operation of basic 
+
+network transmission and access facilities only, with all other services 
+being value-added. This is a common classification scheme internationally. 
+
+  A regime should be introduced giving licensed VAS providers reasonable 
+and non-discriminatory wholesale pricing access to network facilities and 
+services. This regime would ensure that VAS providers have access to the 
+basic network facilities they need at pricing levels that enable them to be 
+commercially viable. 
+
+  Since the most recent version of the draft Telecom Law was released for 
+public comment in 2009we recommend China re-release the law for 
+comment so that it can reflect changes in the market and technology. 
+
+3.  Revisions to PRC Internet Information Services Administrative Measures: On 
+June 6, 2012 MIIT and the State Council Internet Information Office (SCIIO) 
+released for comment a draft revised version of China's Internet Information 
+Services Administrative Measure which were last updated in the year 2000. 
+These are critically important rules for any company in the China market that 
+provides "internet information services" to Chinese customers over the public 
+Internet. The proposed revisions clarify internet regulatory roles and 
+
+ 
+ 
+ 
+ 
+ 
+USITO – China’s WTO Compliance 2015 USTR Filing 
+Submitted Thursday, 24 September 15 
+
+41 
+
+responsibilities of different government agencies, continue to classify internet 
+services as a telecom-value added service, and also contain numerous 
+requirements and provisions for national security lawful access, data retention, 
+data privacy, content filtering, and real-name ID registration requirements 
+(which become for the first time mandatory for all internet service providers).  
+
+USITO believes that while Internet regulation may be necessary for societal 
+stability, country-specific regulation relating to the creation, release, and 
+transmission of certain types of content can constitute trade barriers for global 
+Internet services companies. In addition, the Internet is global in nature. As such, 
+country-specific Internet industry regulations, including content management 
+and regulation of emerging Internet services categories such as micro-blogs and 
+online forums, lead to fragmentation and balkanization of the global Internet. 
+More specifically, the draft revised Measure would hold telecom and other 
+Internet service providers liable for all content passing through their respective 
+networks and their products. China’s actions in the area of Internet policy and 
+regulation may influence other governments to adopt heavy-handed policies 
+that ultimately stunt the growth of the Internet and innovative capacity of ISPs 
+and ICPs to contribute to the growth of cyberspace. We strongly believe that a 
+global, borderless, and industry-centered approach is the only way to effectively 
+manage the growth of the Internet while minimizing burdens that may stunt its 
+development.  
+
+B. 
+
+TECHNOLOGY NEUTRALITY VS. MANDATED STANDARDS 
+
+Finally, we continue to urge the Chinese government to subscribe to the principle of 
+technology neutrality on the part of the regulator. Technology neutrality is a key 
+principle for regulated sectors like telecommunications. Markets and innovation benefit 
+most when ICT manufacturers and suppliers engage in demand-driven competition, 
+standards are openly and competitively developed, and governments do not interfere to 
+choose technology winners and losers.  
+
+In recent years, China has routinely favored domestic standards and technology over 
+international standards and technology. In 2009, after the issuance of 3G spectrum, the 
+Chinese government, through its agencies, research institutions, and state-owned 
+enterprises, promoted and supported its own 3G mobile phone standards, TDSCDMA.  
+Shortly thereafter, the Chinese version of WiFi – that is, WAPI – was mandated on all 
+mobile devices through China’s type approval process. In addition, USITO is concerned 
+about China’s development of the Enhanced Ultra-High Throughput (EUHT) standard, 
+and required use of the domestically developed ZUC encryption algorithm. Most 
+recently, MIIT issued 4G licenses to telecom services providers for the Chinese 
+originated TD-LTE technology in December 2013, while delaying the issuance of 4G trial 
+licenses for FDD-LTE to June 2013 for the purposes of testing compatibility between the 
+two 4G technologies and limiting the geographic scope of the FD-LTE licenses. 
+
+ 
+ 
+ 
+ 
+USITO – China’s WTO Compliance 2015 USTR Filing 
+Submitted Thursday, 24 September 15 
+
+42 
+
+Technology neutral policies will help ensure that one technology does not have an 
+unfair advantage over another in China’s market.  
+
+We appreciate this opportunity to provide our comments and look forward to working 
+with the U.S. and Chinese governments on addressing the issues set out herein. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+USITO – China’s WTO Compliance 2015 USTR Filing 
+Submitted Thursday, 24 September 15 
+
+43 
+
+APPENDIX: USITO INTRODUCTION 
+Since its founding in late 1994, the U.S. Information Technology Office (USITO) has 
+grown to become the leading policy-centered independent NGO focused on the ICT 
+industry in China. USITO acts as the joint office in China of several U.S.-based trade 
+associations representing the high-tech industry. USITO also accepts corporate 
+memberships from those U.S. companies in the information technologies industry that 
+seek direct representation. Currently, USITO has about 45 corporate members. 
+
+USITO monitors and expresses support for legislation conducive to U.S. exports and 
+investment and promotes further opening of China’s telecommunications and 
+information technology markets. The organization does research and writing on issues 
+of cross-cutting interest to U.S. companies involved in China’s telecommunications and 
+high-tech sectors. USITO also assists its parent organizations with trade shows, 
+delegations, meetings, and other China-connected events. 
+
+USITO comprises a consortium of four U.S. industry associations: the Information 
+Technology Industry Council (ITI), the Software & Information Industry Association (SIIA), 
+the Semiconductor Industry Association (SIA), and the Telecommunications Industry 
+Association (TIA). 
+
+• The Information Technology Industry Council (ITI) is the premier group of the nation's 
+leading high-tech companies and widely recognized as the tech industry's most effective 
+lobbying organization in Washington, in various foreign capitals, and the WTO. 
+
+• The Semiconductor Industry Association (SIA), being one of the leading hi-tech 
+associations in America, represents over 85% of the American semiconductor industry 
+and represents their interests both at home and abroad. 
+
+• The Software & Information Industry Association (SIIA) is the principal trade 
+association of the software and digital content industry representing more than 500 
+software publishers, developers, and service providers from around the world. 
+
+• The Telecommunications Industry Association (TIA) is the leading U.S. non-profit trade 
+association serving the communications and information technology industry. TIA 
+provides a market-focused forum for its 500 member companies, which manufacture or 
+supply the products and services used in global communications. 
+
+ 
+ 
+ 
+ 
+
