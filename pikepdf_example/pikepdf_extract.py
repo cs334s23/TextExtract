@@ -14,9 +14,8 @@ except pikepdf.PdfError as e:
         raise e
 
 # Check if the PDF is already linearized
-if not pdf.is_linearized:
-    # Linearize the PDF
-    pdf.save(pdf_path, linearize=True)
+# Linearize the PDF
+pdf.save(pdf_path, linearize=True)
 
 # Extract all text from the PDF using pdfminer.six
 with open(pdf_path, "rb") as f:
